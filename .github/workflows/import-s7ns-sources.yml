@@ -1,0 +1,38 @@
+name: Import S7NS source archive
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Confirm uploaded archive
+        run: |
+          test -f S7NS_GITHUB_SOURCE_BUNDLE.zip
+          ls -lh S7NS_GITHUB_SOURCE_BUNDLE.zip
+
+      - name: Extract importer from archive
+        run: |
+          python -m zipfile -e S7NS_GITHUB_SOURCE_BUNDLE.zip .
+          test -f tools/import_source_bundle.py
+
+      - name: Import sources and verify raw links
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPO: kazekamimp3/s7ns
+        run: |
+          python tools/import_source_bundle.py S7NS_GITHUB_SOURCE_BUNDLE.zip
