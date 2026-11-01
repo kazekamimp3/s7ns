@@ -2,24 +2,47 @@
 
 Repository: https://github.com/kazekamimp3/s7ns
 
-## Start here
+## Important: use GitHub browser pages, not raw URLs
 
-Fetch these two files first:
+Some AI Studio browsing environments block `raw.githubusercontent.com`. If that happens, do not retry raw URLs. Use the normal GitHub web interface on `github.com` instead.
 
-- https://raw.githubusercontent.com/kazekamimp3/s7ns/main/S7NS_SOURCE_INDEX.md
-- https://raw.githubusercontent.com/kazekamimp3/s7ns/main/SOURCE_MANIFEST.json
+Start with:
+- https://github.com/kazekamimp3/s7ns/blob/main/AI_STUDIO_START_HERE.md
+- https://github.com/kazekamimp3/s7ns/blob/main/S7NS_SOURCE_INDEX.md
+- https://github.com/kazekamimp3/s7ns/blob/main/SOURCE_MANIFEST.json
 
-The index contains a direct `raw.githubusercontent.com` URL for every source document. The manifest contains each original filename, repository path, byte size and SHA-256 digest.
+For each source file, construct/open its GitHub browser page using:
+`https://github.com/kazekamimp3/s7ns/blob/main/<repository-path>`
 
-## Retrieval procedure
+Example:
+https://github.com/kazekamimp3/s7ns/blob/main/source/00_authority/01_BOOT_AUTHORITY.md
 
-1. Read the source index and manifest.
-2. Fetch the raw URLs for all required source owners. For a full project initialization, fetch the complete authority/current-state/routing sources, active Season 3 material, complete character owners, world/research sources, manifests and historical archives.
-3. Preserve each source as an independent owner. Similar filenames and dated suffixes indicate distinct artifacts and must not be silently collapsed.
-4. Verify fetched byte sizes and SHA-256 values against `SOURCE_MANIFEST.json` whenever the ingestion environment permits.
-5. If a raw URL fails, report its exact path. Do not replace it with a summary or guessed version.
-6. Use the raw URLs unchanged in Google AI Studio URL-context or source-ingestion workflows.
+Directory listings:
+- https://github.com/kazekamimp3/s7ns/tree/main/source/00_authority
+- https://github.com/kazekamimp3/s7ns/tree/main/source/01_character_owners
+- https://github.com/kazekamimp3/s7ns/tree/main/source/02_runeterra
+- https://github.com/kazekamimp3/s7ns/tree/main/source/03_season3
+- https://github.com/kazekamimp3/s7ns/tree/main/source/04_world_research
+- https://github.com/kazekamimp3/s7ns/tree/main/source/05_history
+- https://github.com/kazekamimp3/s7ns/tree/main/source/06_manifests
 
-## Direct source-link list
+## Ingestion requirements
 
-All 38 source links are in `S7NS_SOURCE_INDEX.md`. This guide is intentionally a stable entry point for a fresh AI Studio session.
+1. Read the complete source index and manifest.
+2. Open source files through GitHub browser pages (`github.com/.../blob/main/...`), not raw URLs.
+3. Read files in manageable batches. Large files may require multiple page/line-range reads if the browsing environment truncates them.
+4. Keep every original file independent. Dated/revision variants are separate artifacts.
+5. Preserve source authority and state distinctions. Do not silently reconcile conflicts.
+6. Record exact files fully read, partially read, inaccessible, or truncated.
+7. Do not claim full ingestion based on filenames, directory listings, manifests, or summaries alone.
+8. Remain in WORK mode. No scene execution, fictional time advancement, or source modification.
+
+## Integrity
+
+The GitHub Actions import completed successfully at commit:
+`20a46268020de3939fbf408ee221a4f32e864ec2`
+
+The import job reported:
+`SUCCESS: all 38 source raw links verified.`
+
+This proves the GitHub-hosted raw files were reachable during the import verification. It does not prove a separate AI Studio session can access them. AI Studio must report its own retrieval results honestly.
