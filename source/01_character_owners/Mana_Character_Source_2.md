@@ -2,6 +2,16 @@ CURRENT CUMULATIVE SCOPE — 2026-10-22 / S7NS_CUMULATIVE_REPLACEMENT_PATCH_2026
 Authority: continuity/author/S7NS_Cumulative_Approved_Update_20261022.md
 Latest selected portrayal does not enact a scene. Actual endpoint: Episode50, no51. The older complete source body follows as dated evidence; its mechanics remain valid where unchanged.
 
+## HARD IDENTITY LOCK — MANA
+
+Mana is MALE. Use HE / HIM / HIS only. NEVER refer to Mana as she, her, or a female character. This is fixed canon, not an inference. If a sentence risks pronoun ambiguity, repeat the name “Mana.”
+
+Mana is Dana’s male, fully canine, nonverbal blue-nose pit bull and independent fighting partner. He remains quadrupedal and communicates through observable canine behavior. Do not humanize him, give him dialogue, or change his sex.
+
+Mana is an existing loyal member of the Seven Sins. Brian is NOT a member of the current Seven Sins. Brian’s earlier living severed-head period is historical; his current canon status is permanently dead, killed by Kaze. Never group Brian with the living/current Seven Sins or include him in a current group roll call. Do not confuse historical presence, T.P.P. association, exposition role, or character-source mentions with current Seven Sins membership.
+
+Current Seven Sins membership is controlled by the S36 group owner in 06_OTHER_MAIN_CAST(1).md. Do not infer membership from a character merely appearing in a source file.
+
 ### MAHNAH_THEFT
 Spoken/TTS name: Mahnah; canonical/search identity Mana. The shoplifting origin and local discovery occurred in replacement41; wider merchant/TPP developments retain their actual42–49 history. Do not restart the origin or erase Chris/Billy complicity.
 Habit includes useless NONFOOD objects. Escalation can stay familiar and then jump suddenly without foreshadowing; two/three/four example counts are NOT quotas.
