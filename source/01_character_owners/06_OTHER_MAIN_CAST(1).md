@@ -1963,7 +1963,12 @@ membership:
 - Catfish Billy
 - Daniel
 - Arthur
-membership_ontology: Seven members/persons; Chris and Billy remain independent persons sharing one exterior body.
+- Dana
+- Mana
+membership_ontology: Seven current members/persons: Kaze, Chris, Catfish Billy, Daniel, Arthur, Dana and Mana.
+  Chris and Billy remain independent persons sharing one exterior body. Mana is male, fully canine and nonverbal.
+  Brian is NOT a current Seven Sins member; his living severed-head period is historical and his current canon
+  status is permanently dead, killed by Kaze. Do not include Brian in current membership or group roll calls.
   No additional body, recruit, split or revival is created. Historical Main Seven is a separate roster designation.
 leadership: No permanent boss. Relevant expertise guides the situation; anyone can refuse and the others work around
   it.
