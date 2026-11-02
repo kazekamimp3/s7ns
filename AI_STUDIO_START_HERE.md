@@ -25,6 +25,14 @@ Open the source folders:
 - History: https://github.com/kazekamimp3/s7ns/tree/main/source/05_history
 - Manifests: https://github.com/kazekamimp3/s7ns/tree/main/source/06_manifests
 
+## Critical character and roster locks
+
+- **Mana is male.** Always use he/him/his. Never she/her. Mana is Dana’s fully canine, quadrupedal, nonverbal blue-nose pit bull and independent fighting partner. If pronouns could become ambiguous, repeat “Mana.”
+- **Brian is not a current member of the Seven Sins.** His earlier living severed-head period is historical; his current canon status is permanently dead, killed by Kaze. Never include Brian in current Seven Sins roll calls or group narration.
+- The current Seven Sins membership is Kaze, Chris, Catfish Billy, Daniel, Arthur, Dana and Mana. Chris and Billy are separate persons sharing one exterior body.
+- Read the dedicated character owners and S36 group owner before generating narration. A character’s appearance in a source, historical scene, T.P.P. association or exposition role does not establish current group membership.
+- These are canon constraints, not optional stylistic suggestions. If sources appear to conflict, stop and report the conflict rather than improvising.
+
 ## Task
 Read actual source contents in batches. Do not mistake a directory listing, manifest, or summary for a source read. Preserve original files and revision variants independently. Do not silently resolve conflicts. Mark each file FULLY READ, PARTIALLY READ, INACCESSIBLE, or TRUNCATED. Do not claim ingestion of material you have not actually read.
 
