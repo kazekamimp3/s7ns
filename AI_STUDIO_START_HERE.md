@@ -5,6 +5,17 @@ You are ingesting the S7NS source repository for Kaze, its primary creator, auth
 ## Repository
 https://github.com/kazekamimp3/s7ns
 
+
+## Current Space Saga restart handoff — PRIORITY ENTRY
+
+Read the complete author-provided restart handoff, including its embedded RAW source links:
+https://raw.githubusercontent.com/kazekamimp3/s7ns/main/docs/S7NS_SPACE_SAGA_AUTHORITATIVE_RESTART_HANDOFF_20261102.md
+
+GitHub browser fallback:
+https://github.com/kazekamimp3/s7ns/blob/main/docs/S7NS_SPACE_SAGA_AUTHORITATIVE_RESTART_HANDOFF_20261102.md
+
+This handoff identifies the author's stated restart checkpoint at Episode 4. Treat its episode/checkpoint statements as author-provided handoff content and reconcile them against the live current-state owner, delivery ledger, active outline and latest scoped decisions before any PLAY. Do not silently rewrite the supplied handoff. The embedded RAW links are deliberate: use them to retrieve complete source files directly.
+
 ## Current individual character fidelity handoff — READ THIS FIRST
 
 This review record was added 2026-11-02. Read the RAW file directly:
