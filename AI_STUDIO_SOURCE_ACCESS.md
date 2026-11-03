@@ -2,6 +2,15 @@
 
 Repository: https://github.com/kazekamimp3/s7ns
 
+
+## Space Saga restart handoff
+
+Read the full author-provided restart handoff and its embedded RAW source links:
+https://raw.githubusercontent.com/kazekamimp3/s7ns/main/docs/S7NS_SPACE_SAGA_AUTHORITATIVE_RESTART_HANDOFF_20261102.md
+
+Browser fallback:
+https://github.com/kazekamimp3/s7ns/blob/main/docs/S7NS_SPACE_SAGA_AUTHORITATIVE_RESTART_HANDOFF_20261102.md
+
 ## Primary retrieval: RAW URLs
 
 **Use the exact `raw.githubusercontent.com` URLs in the current Start Here and handoff files first.** They return the source text directly and are the preferred retrieval path for AI Studio.
