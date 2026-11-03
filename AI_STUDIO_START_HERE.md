@@ -5,6 +5,30 @@ You are ingesting the S7NS source repository for Kaze, its primary creator, auth
 ## Repository
 https://github.com/kazekamimp3/s7ns
 
+## Current individual character fidelity handoff — READ THIS FIRST
+
+This review record was added 2026-11-02. Read the RAW file directly:
+https://raw.githubusercontent.com/kazekamimp3/s7ns/main/docs/CHARACTER_FIDELITY_HANDOFFS_20261102.md
+
+GitHub browser fallback:
+https://github.com/kazekamimp3/s7ns/blob/main/docs/CHARACTER_FIDELITY_HANDOFFS_20261102.md
+
+**RAW character-owner links are intentional and important for AI Studio retrieval. Read the full files, not snippets:**
+- Kaze / Seven Sins: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/01_character_owners/04_KAZE_SINS.md
+- Chris / Catfish Billy: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/01_character_owners/05_CHRIS_BILLY(1).md
+- Daniel / Arthur Morgan: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/01_character_owners/06_OTHER_MAIN_CAST(1).md
+- Catfish Billy specials: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/01_character_owners/14_BILLY_SPECIALS(3).md
+- Dana / Mana: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/01_character_owners/dana_mana.md
+- Dana supplemental source: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/01_character_owners/Dana_Character_Source_2.md
+- Mana supplemental source: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/01_character_owners/Mana_Character_Source_2.md
+- Boot authority: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/00_authority/01_BOOT_AUTHORITY.md
+- Current state bundle: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/00_authority/02_CURRENT_STATE(1).md
+- Index and routing bundle: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/source/00_authority/03_INDEX_ROUTING.md
+
+Use the RAW URLs first. If AI Studio specifically cannot retrieve `raw.githubusercontent.com`, use the corresponding `github.com/.../blob/main/...` page as fallback. Report exactly which files were fully read, partially read, inaccessible or truncated.
+
+The handoff record is a review/navigation record, not a replacement for canonical character owners. The Chris possum concept is a selected supplement awaiting formal incorporation; do not silently merge it into the approved Chris owner. Preserve the exact Catfish Billy hat-material correction in the handoff record.
+
 ## Read this access guide first
 https://github.com/kazekamimp3/s7ns/blob/main/AI_STUDIO_SOURCE_ACCESS.md
 
