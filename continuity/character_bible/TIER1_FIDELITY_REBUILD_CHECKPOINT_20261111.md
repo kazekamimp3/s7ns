@@ -1,41 +1,32 @@
-# S7NS CHARACTER BIBLE — PRODUCTION CHECKPOINT
+# S7NS CHARACTER BIBLE — FINAL PRODUCTION CHECKPOINT
 
-**Checkpoint timestamp:** 2026-11-11, approximately 7:25 PM HST  
+**Checkpoint timestamp:** 2026-11-11, approximately 7:45 PM HST  
 **Project:** S7NS  
 **Branch:** `S7NS_SPACE_SAGA_ACTS_20261111`  
 **Author authority:** Kaze / Tristan  
-**Overall task:** Exhaustive, source-grounded Character Bible for the complete requested roster.
+**Task state:** ALL FIVE REQUESTED TIERS COMPILED AS SOURCE-GROUNDED DRAFTS; cross-tier author review remains available.
 
 ## 1. Exact current state
 
-### Completed drafts
+The complete requested roster has been compiled into **27 individual character dossiers, 270 numbered schema sections, and approximately 51,571 words**. The final bullet in Tier 5 contains two independent people sharing one conjoined body; they were given separate dossiers.
 
-- **Tier 1 — The Core Sins & Ship Crew:** corrected edition 2.0 rebuilt from actual character-fidelity owners, not the Act 42 handoff. Five dossiers, 50 schema sections, approximately 12,844 words. Saved/read back in GitHub and Notion; five branch-specific Airtable records verified. Author acceptance: NOT_ASSERTED.
-- **Tier 2 — The Antagonists, Rivals & Mercenaries:** six dossiers, 60 sections, approximately 9,260 words. GitHub, Notion and six branch-specific Airtable records saved/read back. Do not redo Tier 2.
-- **Tier 3 — The Lānaʻi & Outer Rim Lore Anchors:** four dossiers, 40 sections, approximately 5,109 words. Saved/read back in GitHub and Notion; four branch-specific Airtable records verified. This tier has sparse source coverage: no dedicated full fidelity owners for Denise, Batuna/Marcelina, Venlee or the Prehistoric Pimp Rooster were found in the attached manifest-mapped owner set. The draft explicitly distinguishes current Act 35–45 facts, older S3/Runeterra outline material, separate CHRONICLES OF LĀNAʻI status pages, supplied project context and OPEN fields. Author acceptance: NOT_ASSERTED.
-- **Tier 1 correction:** original edition 1.0 was handoff-derived and is superseded for character-fidelity use. Edition 2.0 replaces it in place on GitHub and Notion.
-- **Tier 1 source retrieval:** exact full owners were extracted by manifest byte offsets/lengths and SHA-256 matched `MANIFEST.yaml`. Do not repeat unless a source changes.
-- **Tier 3 source search:** current Act 42 checkpoint and older S3/Runeterra outline/cast-focus sources were consulted. No dedicated Tier 3 full owners found. Do not pretend that the sparse source set provides full biographies or unrecorded abilities.
+### Tier completion
 
-### Exact next unfinished step
+- **Tier 1 — The Core Sins & Ship Crew:** corrected edition **2.1**, five dossiers, 50 sections, approximately 17,987 words. Rebuilt from the actual character-fidelity owners, not the Act 42 handoff. Duplicate short-form Daynah/Billy/Mahnah entries were removed; the expanded fidelity-owner dossiers were retained. GitHub and Notion readback verified. Five branch-specific Airtable records verified. Author acceptance: NOT_ASSERTED.
+- **Tier 2 — The Antagonists, Rivals & Mercenaries:** six dossiers, 60 sections, approximately 9,260 words. GitHub and Notion readback verified; six branch-specific Airtable records verified. Do not redo Tier 2.
+- **Tier 3 — The Lānaʻi & Outer Rim Lore Anchors:** four dossiers, 40 sections, approximately 5,109 words. GitHub and Notion readback verified; four branch-specific Airtable records verified. No dedicated full fidelity owners for Denise, Batuna/Marcelina, Venlee or the Prehistoric Pimp Rooster were found in the attached manifest-mapped owner set. Sparse-source limitations and OPEN fields are explicit. Author acceptance: NOT_ASSERTED.
+- **Tier 4 — Red Dead & Historical Ledger Characters:** four dossiers, 40 sections, approximately 8,313 words. Dutch, Arthur, Bob Ross and Micah full owners were extracted and SHA-256 verified. GitHub and Notion readback verified; four branch-specific Airtable records verified. Author acceptance: NOT_ASSERTED.
+- **Tier 5 — Household Residents & Missing Persons:** eight dossiers, 80 sections, approximately 10,902 words. Full owners used where available. Master Shake and Frylock have no dedicated full owners in the retrieved attachment set; their missing details are explicitly OPEN. GitHub and Notion readback verified; eight branch-specific Airtable records verified. Author acceptance: NOT_ASSERTED.
 
-**Tier 5 — Household Residents & Missing Persons** is next:
-1. Meatwad
-2. Master Shake
-3. Frylock
-4. Charles Manson (transformed mechanical fish sign)
-5. K.K. / Keke
-6. Daniel
-7. Brusta Thymes & Conjoined Mini-Adult Brian
+### Exact next step
 
-Continue by retrieving each character’s actual current full owner and relevant scripts/history, verifying scope/status, then compiling the same ten-section template. Do not restart Tiers 1–4.
+There is **no remaining roster tier**. The next unfinished production step is **cross-tier audit and author review**: reconcile any corrections Kaze supplies, check the exact Act 35–45 present-state overlay against delivered scripts, and update only the affected dossier/record. Do not restart any completed tier or infer author acceptance.
 
-## 2. Corrected Tier 1 artifact
+## 2. Tier 1 artifact — corrected fidelity edition 2.1
 
-- GitHub: `continuity/character_bible/TIER_1_CORE_SINS_20261111.md`
-  - https://github.com/kazekamimp3/s7ns/blob/main/continuity/character_bible/TIER_1_CORE_SINS_20261111.md
-  - Blob SHA: `e1d807ce50e551b16c56734dff6d4acb20c87373`
-  - Update commit: `f1b5de8eda4862fec269287887e5df14222a1931`
+- GitHub: https://github.com/kazekamimp3/s7ns/blob/main/continuity/character_bible/TIER_1_CORE_SINS_20261111.md
+- GitHub blob SHA: `b351ef61d3d34b89f10892669ca79ff0ed72b547`
+- Update commit: `a99463a3e11ab442ff803ac686a35d1e06e8cf05`
 - Notion page: `4164e1b729b38193aa09f37ce39f18e0`
   - https://app.notion.com/p/4164e1b729b38193aa09f37ce39f18e0
 - Airtable Characters table `tblsOUdXP1ddAXlcd`, branch `S7NS_SPACE_SAGA_ACTS_20261111`:
@@ -49,7 +40,7 @@ Continue by retrieving each character’s actual current full owner and relevant
 
 - GitHub: https://github.com/kazekamimp3/s7ns/blob/main/continuity/character_bible/TIER_2_ANTAGONISTS_20261111.md
 - Notion: https://app.notion.com/p/4164e1b729b381f688e1ce8d52abad8b
-- Six Airtable records exist in the Space Saga branch: Brian/Bee Moo, Lobo, Doctor Evil, Clifford/Adult Jack Marston, Starkiller/Galen Marek, Jabba the Hutt.
+- Airtable branch records: Brian/Bee Moo, Lobo, Doctor Evil, Clifford/Adult Jack Marston, Starkiller/Galen Marek, Jabba the Hutt.
 - Do not redo or overwrite Tier 2.
 
 ## 4. Tier 3 artifact
@@ -64,14 +55,6 @@ Continue by retrieving each character’s actual current full owner and relevant
   - Venlee: `recXZ8FNezemUjvy3`
   - Prehistoric Pimp Rooster: `recQ6HiFkRdhdot7E`
 
-### Tier 3 continuity warnings
-
-- Denise and Venlee have separate CHRONICLES OF LĀNAʻI Notion status pages marked Removed under that project’s V3 authority. That is not an S7NS removal; S7NS Act 41 still includes Denise and the Venlee extraction reference.
-- Batuna/Marcelina is one character in the current Act 35 checkpoint: her rotting four-ton corpse lies beneath a tanker on Nal Hutta and provides fermented batu blubber for Brian’s transformation. Older S3/Runeterra E85–E91 material describes a living Jabba-girlfriend/yacht/security/spice-syndicate arc. Do not merge that older branch into the Act 35 corpse state or invent a resurrection.
-- Venlee’s real historical deletion of Chris’s >90%-complete Assassin’s Creed IV: Black Flag save is supported by Chris’s owner; date, intent, exact relationship and current whereabouts remain OPEN. The older Tatooine / “You get magic?” / Edward Kenway death beat is selected future in a different branch, not current delivered Act 35–45 history.
-- Act 39 confirms Wade’s King Kamehameha prehistoric pimp-rooster rant to Chris, not a verified physical rooster encounter. Exact design, age, voice, powers and location remain OPEN.
-
-
 ## 5. Tier 4 artifact
 
 - GitHub: https://github.com/kazekamimp3/s7ns/blob/main/continuity/character_bible/TIER_4_RED_DEAD_HISTORICAL_LEDGER_20261111.md
@@ -83,27 +66,32 @@ Continue by retrieving each character’s actual current full owner and relevant
   - Arthur Morgan: `recZZGTl4iPQIoU3B`
   - Bob Ross: `recN7G5lvzHTDIKXR`
   - Micah Bell: `recoc1J4jzCovwIxK`
-- Four dossiers, 40 schema sections, approximately 8,313 words. GitHub and Notion readback verified; four branch-specific Airtable records created. Author acceptance: NOT_ASSERTED.
 
-### Tier 4 continuity warnings
+## 6. Tier 5 artifact
 
-- Dutch is the sole Van der Linde newcomer; do not import the whole gang. His Chapter 3 snapshot does not inherit later source-game knowledge. The current Act 35–45 handoff gives a 1M-Brapple comparison but no post-Act42 location.
-- Arthur’s completed Cyber-Arthur package is current carried state in the Second Temporal Relaunch owner. His blast/death/vision/rebuild and first full-charge THE COUNT showcase are completed pre-reset history, not future gates. Current Act35–45 location and stolen-journal theft/custody remain OPEN.
-- Bob Ross and Micah Bell died together in one shared host body during Chris’s III.1 fight in the S3 delivered-history reconciliation. Bob is a distinct consciousness, not Micah impersonating him. The exact dying words remain locked. The later delivered-history reconciliation supersedes the older D173 “not played” hold for that S3 branch.
-- Keep the S3/Second Temporal Relaunch material distinct from the current Space Saga branch unless an explicit author bridge exists.
+- GitHub: https://github.com/kazekamimp3/s7ns/blob/main/continuity/character_bible/TIER_5_HOUSEHOLD_RESIDENTS_MISSING_PERSONS_20261111.md
+- GitHub blob SHA: `87d747919dc82cb73faadf645e3011c0e19a7a80`
+- Notion page: `4164e1b729b381e6856dff1446a042d3`
+  - https://app.notion.com/p/4164e1b729b381e6856dff1446a042d3
+- Airtable Characters table `tblsOUdXP1ddAXlcd`, branch `S7NS_SPACE_SAGA_ACTS_20261111`:
+  - Meatwad: `recsnys9lAvFFeW6Q`
+  - Master Shake: `rec5jux7DTONnhdmx`
+  - Frylock: `rec0anCovG1kvLIi6`
+  - Charles Manson / mechanical fish sign: `reciUIsYYPC102Xch`
+  - K.K / Keke: `recgcegoNLvWs4pwW`
+  - Daniel: `recmXYnhI2PSOGGyf`
+  - Brusta Thymes / Tracy Morgan: `recJ9kZD4uz4YQ92d`
+  - Conjoined Mini-Adult Brian: `recd7Z4fntK61dkD0`
 
-## 6. Branch and evidence rules
+## 7. Critical branch and evidence rules
 
 - The November 11 Act 35–45 handoff is the current Space Saga present-state overlay; it is not a replacement for character-fidelity owners.
-- Several full owner files carry a Season 3 / Runeterra cumulative scope with a different Episode 50 or E73–E100 endpoint. Keep owner mechanics and state scopes distinct; do not import those episode cursors/locations into the Space Saga timeline.
+- Several full owner files carry a Season 3 / Runeterra / Second Temporal Relaunch scope with a different Episode 50 or E73–E100 endpoint. Keep owner mechanics and state scopes distinct; do not import those episode cursors/locations into the Space Saga timeline.
 - `MANIFEST.yaml` labels a prepared package whose installation was not performed. Its roles and hashes identify source bytes, not universal activation of every historical/future detail.
 - Preserve `[OPEN]` and `[KAZE: fill]` wherever sources leave fields unresolved.
 - Separate current, inherited mechanics, historical evidence, selected future, unearned future and current-branch present state. No silent promotion.
-- Do not use franchise familiarity or general knowledge to fill missing powers, origins, quotes, locations or relationships.
 - No author acceptance is asserted for any Character Bible tier unless Kaze explicitly accepts it.
+- Tier 3 lacks dedicated full fidelity owners for all four characters. Tier 5 lacks dedicated full S7NS owners for Master Shake and Frylock. These are source limitations, not invitations to fill with franchise assumptions.
+- Tier 5’s Brusta Thymes and Mini-Adult Brian are two autonomous people in one conjoined body and therefore have separate dossiers.
 
-## 7. Remaining production order
-
-1. **Tier 5:** Meatwad, Master Shake, Frylock, Charles Manson (transformed mechanical fish sign), K.K./Keke, Daniel, Brusta Thymes & Conjoined Mini-Adult Brian.
-
-**Resume instruction:** Start Tier 5 source-owner retrieval and script reconciliation. Tiers 1–4 are completed drafts; do not restart them.
+**Resume instruction:** All requested roster tiers have been drafted and saved. Continue with cross-tier audit and author-directed corrections only. Do not redo completed tiers.
