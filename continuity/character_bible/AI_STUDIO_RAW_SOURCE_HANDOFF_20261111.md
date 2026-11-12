@@ -2,6 +2,9 @@
 
 Prepared: 2026-11-11
 Purpose: portable, self-contained source retrieval and continuity bootstrap for a fresh Google AI Studio session.
+
+CRITICAL RAW-URL REQUIREMENT:
+Every source reference intended for retrieval must be a complete, literal, plain-text URL beginning with https://raw.githubusercontent.com/. Do not use Markdown links, GitHub blob URLs, GitHub repository-page URLs, shortened links, relative paths, or filename-only references as retrieval targets. A filename may appear only as descriptive metadata beside its complete raw URL. If a raw URL is unavailable or fails, report that exact raw URL and the failure; never substitute a normal GitHub page URL.
 Mode: WORK. This document does not authorize PLAY, episode prose, fictional time advancement, or canon changes.
 Creative Director and final authority: Kaze.
 
@@ -19,8 +22,8 @@ Creative Director and final authority: Kaze.
 These files are current controlling state or approved author-reviewed references. Retrieve the full body of each.
 
 ### Current act checkpoint
-- [Act 42 → Act 43 checkpoint](https://raw.githubusercontent.com/kazekamimp3/s7ns/main/continuity/acts/ACT_42_TO_43_CHECKPOINT_20261111.md)
-  Raw: https://raw.githubusercontent.com/kazekamimp3/s7ns/main/continuity/acts/ACT_42_TO_43_CHECKPOINT_20261111.md
+- Act 42 → Act 43 checkpoint
+  https://raw.githubusercontent.com/kazekamimp3/s7ns/main/continuity/acts/ACT_42_TO_43_CHECKPOINT_20261111.md
   Purpose: current Space Saga cursor, completed Acts 35–42, exact Act 43 setup, ledger, TTS constraints.
 
 ### Approved Character Bible — five tiers and audit
@@ -39,7 +42,7 @@ Author approval status: Kaze explicitly approved all five tiers and the cross-ti
 
 ## 3. Space Saga source repository — complete physical-bundle inventory
 
-Repository: https://github.com/kazekamimp3/s7ns
+Repository identifier: kazekamimp3/s7ns
 Branch: main
 All URLs below are raw text URLs. The path is from SOURCE_MANIFEST.json and was checked against the repository tree. The manifest-declared byte length and SHA-256 are metadata, not a claim that this session independently downloaded and hashed each complete bundle.
 
@@ -103,7 +106,7 @@ Space routing/manifest files:
 
 ## 4. Older repository — standalone character owners, author directions, and research
 
-Repository: https://github.com/kazekamimp3/kaze808
+Repository identifier: kazekamimp3/kaze808
 Branch: main
 These are source-owner references and author directions. They are not a replacement for the current Space Saga checkpoint. The separate branch identified by the older repository's CURRENT.json/DELIVERY_LEDGER.json is `S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017`; its Episode 73/74 cursor must not be imported into Space Saga.
 
@@ -140,7 +143,7 @@ Use only where relevant to the Space Saga and only after checking whether a newe
 
 ## 5. Older Runeterra/Season 3 source bundles — separate branch only
 
-Repository: https://github.com/kazekamimp3/kaze808
+Repository identifier: kazekamimp3/kaze808
 Branch: main
 Routing/manifest/access files:
 - MASTER_SOURCE_INDEX.json: https://raw.githubusercontent.com/kazekamimp3/kaze808/main/routing/MASTER_SOURCE_INDEX.json
@@ -250,7 +253,9 @@ Do not generate an episode, rewrite source files, alter canon, or advance fictio
 You are taking over the S7NS project from a self-contained source handoff. You have no access to the prior ChatGPT conversation or its memory. Treat the raw URLs in the handoff document as the source inventory, not as optional reading.
 
 FIRST ACTION:
-Fetch and read this complete handoff:
+Fetch and read this complete handoff. CRITICAL: every source retrieval target must be the literal plain-text raw.githubusercontent.com URL. Do not use Markdown links, GitHub blob pages, repository pages, shortened links, relative paths, or filenames as substitutes. If a raw URL fails, report it; do not fall back to a normal GitHub URL.
+
+Fetch this complete handoff from:
 https://raw.githubusercontent.com/kazekamimp3/s7ns/main/continuity/character_bible/AI_STUDIO_RAW_SOURCE_HANDOFF_20261111.md
 
 Then fetch every raw URL listed in it. Retrieve full bodies, not snippets. For large files, use deterministic chunking to EOF, assemble the exact byte stream, compute UTF-8 byte length and SHA-256, and report all successes, mismatches, truncations, and failures. Use the manifests and routing indexes to extract every embedded logical module by exact byte_offset and byte_length and verify its expected SHA-256. Do not silently omit a URL or logical module.
