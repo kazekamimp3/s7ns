@@ -1,6 +1,6 @@
 # S7NS CHARACTER BIBLE — PRODUCTION CHECKPOINT
 
-**Checkpoint timestamp:** 2026-11-11, approximately 7:05 PM HST  
+**Checkpoint timestamp:** 2026-11-11, approximately 7:25 PM HST  
 **Project:** S7NS  
 **Branch:** `S7NS_SPACE_SAGA_ACTS_20261111`  
 **Author authority:** Kaze / Tristan  
@@ -19,13 +19,16 @@
 
 ### Exact next unfinished step
 
-**Tier 4 — Red Dead & Historical Ledger Characters** is next:
-1. Dutch van der Linde
-2. Arthur Morgan
-3. Bob Ross
-4. Micah Bell
+**Tier 5 — Household Residents & Missing Persons** is next:
+1. Meatwad
+2. Master Shake
+3. Frylock
+4. Charles Manson (transformed mechanical fish sign)
+5. K.K. / Keke
+6. Daniel
+7. Brusta Thymes & Conjoined Mini-Adult Brian
 
-Continue by retrieving each character’s actual current full owner and relevant scripts/history, verifying scope/status, then compiling the same ten-section template. Do not restart Tiers 1–3.
+Continue by retrieving each character’s actual current full owner and relevant scripts/history, verifying scope/status, then compiling the same ten-section template. Do not restart Tiers 1–4.
 
 ## 2. Corrected Tier 1 artifact
 
@@ -68,7 +71,28 @@ Continue by retrieving each character’s actual current full owner and relevant
 - Venlee’s real historical deletion of Chris’s >90%-complete Assassin’s Creed IV: Black Flag save is supported by Chris’s owner; date, intent, exact relationship and current whereabouts remain OPEN. The older Tatooine / “You get magic?” / Edward Kenway death beat is selected future in a different branch, not current delivered Act 35–45 history.
 - Act 39 confirms Wade’s King Kamehameha prehistoric pimp-rooster rant to Chris, not a verified physical rooster encounter. Exact design, age, voice, powers and location remain OPEN.
 
-## 5. Branch and evidence rules
+
+## 5. Tier 4 artifact
+
+- GitHub: https://github.com/kazekamimp3/s7ns/blob/main/continuity/character_bible/TIER_4_RED_DEAD_HISTORICAL_LEDGER_20261111.md
+- GitHub blob SHA: `6ba75cffc7856bb1a4782d88293a1595df4673bc`
+- Notion page: `4164e1b729b381f8877ef066927b156d`
+  - https://app.notion.com/p/4164e1b729b381f8877ef066927b156d
+- Airtable Characters table `tblsOUdXP1ddAXlcd`, branch `S7NS_SPACE_SAGA_ACTS_20261111`:
+  - Dutch van der Linde: `recqIzkoOi61VPxIm`
+  - Arthur Morgan: `recZZGTl4iPQIoU3B`
+  - Bob Ross: `recN7G5lvzHTDIKXR`
+  - Micah Bell: `recoc1J4jzCovwIxK`
+- Four dossiers, 40 schema sections, approximately 8,313 words. GitHub and Notion readback verified; four branch-specific Airtable records created. Author acceptance: NOT_ASSERTED.
+
+### Tier 4 continuity warnings
+
+- Dutch is the sole Van der Linde newcomer; do not import the whole gang. His Chapter 3 snapshot does not inherit later source-game knowledge. The current Act 35–45 handoff gives a 1M-Brapple comparison but no post-Act42 location.
+- Arthur’s completed Cyber-Arthur package is current carried state in the Second Temporal Relaunch owner. His blast/death/vision/rebuild and first full-charge THE COUNT showcase are completed pre-reset history, not future gates. Current Act35–45 location and stolen-journal theft/custody remain OPEN.
+- Bob Ross and Micah Bell died together in one shared host body during Chris’s III.1 fight in the S3 delivered-history reconciliation. Bob is a distinct consciousness, not Micah impersonating him. The exact dying words remain locked. The later delivered-history reconciliation supersedes the older D173 “not played” hold for that S3 branch.
+- Keep the S3/Second Temporal Relaunch material distinct from the current Space Saga branch unless an explicit author bridge exists.
+
+## 6. Branch and evidence rules
 
 - The November 11 Act 35–45 handoff is the current Space Saga present-state overlay; it is not a replacement for character-fidelity owners.
 - Several full owner files carry a Season 3 / Runeterra cumulative scope with a different Episode 50 or E73–E100 endpoint. Keep owner mechanics and state scopes distinct; do not import those episode cursors/locations into the Space Saga timeline.
@@ -78,9 +102,8 @@ Continue by retrieving each character’s actual current full owner and relevant
 - Do not use franchise familiarity or general knowledge to fill missing powers, origins, quotes, locations or relationships.
 - No author acceptance is asserted for any Character Bible tier unless Kaze explicitly accepts it.
 
-## 6. Remaining production order
+## 7. Remaining production order
 
-1. **Tier 4:** Dutch van der Linde, Arthur Morgan, Bob Ross, Micah Bell.
-2. **Tier 5:** Meatwad, Master Shake, Frylock, Charles Manson (transformed mechanical fish sign), K.K./Keke, Daniel, Brusta Thymes & Conjoined Mini-Adult Brian.
+1. **Tier 5:** Meatwad, Master Shake, Frylock, Charles Manson (transformed mechanical fish sign), K.K./Keke, Daniel, Brusta Thymes & Conjoined Mini-Adult Brian.
 
-**Resume instruction:** Start Tier 4 source-owner retrieval and script reconciliation. Tiers 1–3 are completed drafts; do not restart them.
+**Resume instruction:** Start Tier 5 source-owner retrieval and script reconciliation. Tiers 1–4 are completed drafts; do not restart them.
