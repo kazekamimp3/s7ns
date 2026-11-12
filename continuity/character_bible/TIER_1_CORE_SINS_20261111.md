@@ -1,509 +1,586 @@
 # S7NS CHARACTER BIBLE — TIER 1: THE CORE SINS & SHIP CREW
 
-**Version:** 1.0 — 11 November 2026  
-**Scope:** Tier 1 only: Kaze, Chris, Daynah, Catfish Billy, and Mahnah.  
-**Current story reference:** Act 42 — “Fifteen Hundred and Two”; post-Act-42 present, with Act 43 — “Whose Falcon” queued but not yet written.  
-**Authority:** Kaze is the final creative authority. The 11 November 2026 Act 42→43 checkpoint controls the Act 35–45 workstream.
+**Corrected edition:** 2.0 — 11 November 2026  
+**Authority:** Kaze / Tristan  
+**Scope:** Kaze, Chris, Daynah/Dana, Catfish Billy, Mahnah/Mana  
+**Status:** Rebuilt from the actual character-fidelity owners extracted from the attached cumulative package and verified against `MANIFEST.yaml`. The Act 42 handoff is used only as a separate present-state overlay.  
+**Important branch note:** Several full character owners carry a Season 3 / Runeterra cumulative scope whose own endpoint is Episode 50. The November 11 Space Saga Acts 35–45 handoff is a separate current workstream. This bible preserves the owner mechanics and labels branch-specific state rather than merging the two timelines silently.
+
+## Source and authority method
+
+This edition replaces the defective Tier 1 edition 1.0. Edition 1.0 relied too heavily on the short Act 42 handoff and did not retrieve the full fidelity owners. It is superseded for character-fidelity use.
+
+The following full owners were extracted from the attached physical bundles by the exact byte offsets and lengths in `MANIFEST.yaml`; each extracted byte range matched the manifest SHA-256. The manifest labels these as current owners, inherited mechanics, or future progression as appropriate. A hash proves source-byte identity, not that every historical or future statement is active in every story branch.
+
+- Kaze: `canon/characters/kaze_current.md`; `canon/characters/kaze_psychology.md`; `character_sources/Kaze_Character_Source.txt`; `character_sources/Sins_Group_and_Reputation_Source.txt`.
+- Chris / Catfish Billy: `canon/characters/chris_catfish_billy_current.md`; `canon/characters/chris_catfish_billy_future.md` (future gates separated); `character_sources/Chris_Character_Source.txt`; `character_sources/Billy_Character_Source.txt`; `character_sources/Chris_Billy_BELLY_Source.txt`.
+- Daynah / Mana: `canon/characters/dana_mana.md`; `character_sources/Dana_Character_Source.txt`; `character_sources/Mana_Character_Source.txt`.
+
+**Present-state overlay from the November 11 Act 42 handoff:** Kaze is alive after the Lobo contract is settled; his physical heart is in Lobo's saddlebag; exact post-Act 42 location is not specified. The handoff separately records Chris's one-exterior-body rule with Catfish Billy, Daynah's 8'10" / 840-lb baseline, Mahnah's saliva being used by Doctor Evil, and no new location for these characters. Those are not substitutes for the full owners below. The exact current exterior controller for Chris/Billy and exact post-Act 42 locations for Chris, Billy, Daynah and Mahnah remain **[OPEN]**.
 
 ---
 
-## Reading this bible: canon status and branch discipline
+# KAZE / KAZE
 
-This document distinguishes three kinds of information:
+## 1. Exact Canonical Spellings & Known Aliases
 
-- **ACT-CONFIRMED:** directly stated in the 11 November 2026 Act 42→43 checkpoint or in the user's current Tier 1 roster brief. These are the details safe to use in the present Act 35–45 workstream.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** detailed information found in the attached 2026-10 Runeterra / Season 3 owner bundle (`04_KAZE_SINS.md`, `05_CHRIS_BILLY(1).md`, `dana_mana.md`, `Dana_Character_Source_2.md`, and `Mana_Character_Source_2.md`) or the connected earlier character handoffs. These sources contain substantial character mechanics and voice architecture, but their bootstrap files identify a separate S3 / Runeterra episode branch. The November 11 Act checkpoint explicitly says not to merge that branch into this Act-based workstream without Kaze's permission. These details are preserved as source evidence, not silently promoted to current Act canon.
-- **[OPEN]:** the Act 35–45 source presently available does not establish the detail, or the older owner itself leaves it unresolved. Do not fill the gap by improvisation.
+- **Primary canonical name:** Kaze.
+- **Known creator-facing identifier:** Kaze / Tristan is how the author identifies the creator and the in-universe lead in the supplied roster. Keep the real-world creator and fictional character as distinct layers whenever continuity requires it; the fictional character is not a license to import every fact from the creator's biography.
+- **CASA:** Kaze remains Kaze. CASA is not a second personality, possession, or independent character.
+- **The Black Marrow:** the current name of the singular bonded sword and, under the owner’s identity rule, the name of the cumulative Kaze-plus-sword evolutionary identity. It is not a second character.
+- **Historical sword names, stage-specific:** The Bleeding Tempest; The Darkin Tempest; The Godgrave Tempest; The Devouring Tempest; The Profane Tempest; The Ruinborn Tempest; The Oblivion Tempest; current Second Temporal Relaunch title: **The Black Marrow**. Historical names remain correct for their own stages; they are not alternate current weapons.
+- **Congenital Abyssal Soul Anomaly (CASA):** name of Kaze’s congenital soul-level anomaly, not an alias or alter ego.
+- Do not restore retired names or abilities by treating them as aliases. The left-eye replacement and any Susanoo decision remain separate unresolved proposals.
 
-**Source coverage limitation:** the mounted current Act materials included the complete Act 42→43 checkpoint and character-owner bundles, but not the full prose manuscripts for Acts 35–42. The checkpoint records plot beats and the current canon ledger; exact dialogue not reproduced there cannot be claimed as a verbatim line from the full scripts. Where the checkpoint provides an exact line, its status is identified accurately (for example, queued for Act 43 rather than already spoken).
+## 2. Living Status & Current Location (Post-Act 30 Present Day)
 
-**Branch safeguard:** the older `01_BOOT_AUTHORITY_SPACE_20261024.md`, the Runeterra bundles, the older Notion character pages, and Airtable character rows identify an older E50/E73-style Season 3 branch. The old Notion page “Kaze — Character Canon” expressly calls itself superseded. This bible does not use those older branch cursors or locations as the current Act 35–45 state. Old source-owner mechanics are retained below only with that qualification.
+- **Living status:** Alive in the November 11 Space Saga handoff. Act 42’s Lobo contract encounter ended in an outlaw settlement; Lobo is not recorded dead and Kaze is not recorded dead.
+- **Heart placement:** the handoff states Kaze’s physical heart is carried in Lobo’s saddlebag. The precise physiology, distance/connection rules and exact consequences of that placement are not expanded by the handoff; do not invent them.
+- **Current location:** **[OPEN]** after the Act 42 settlement. The handoff does not specify a ship, room, planet, or exact body placement after the encounter.
+- **Separate owner branch:** the attached Kaze fidelity owners include a cumulative Season 3 package whose own stated endpoint is Episode 50. That is not the current Act 42 cursor. Do not move Kaze to that branch’s Episode 50 location or use its old episode cursor as the Space Saga present.
+- Kaze’s no-alcohol rule is explicit in the current owner and repeated in the Act 42 handoff. Romance is OFF in the October 2026 current owner scope; historical adult relationship events remain historical and do not reactivate current romance.
 
----
+## 3. Physical Appearance, Baseline Scale & Forms/Mutations
 
-# KAZE / PRIMARY IDENTITY: KAZE
+- **Baseline scale:** 5'11", 150 lb body weight; approximately 200 lb fully equipped. Tall, lean/slender athletic build. His physical capability is deliberately disproportionate to the frame; observers may underestimate strength, stability, leverage, durability, impact force or resistance to displacement, but this is an observer-perception effect, not a reduction in actual ability.
+- **Skin / hair:** brown, naturally melanated skin. Compact, slim-to-moderate high-top black locs with blonde tips; shaved/no-guard sides and back under the accepted visual study. Preserve the established proportions and cues rather than enlarging him to advertise power.
+- **Clothing:** current Second Temporal Relaunch opening appearance is shirtless, with samurai pants and black Air Force Ones. No boots, shirt, coat or upper garment. Air Forces are a hard visual/cultural lock.
+- **Tattoos:** extensive heavy coverage across neck, chest, stomach, arms, hands, shoulders and back. Exact prominent marks include **DO NOT RESUSCITATE** centered on the forehead, an upside-down cross, and **KAZE** across the stomach. Do not mirror the recorded placement or improvise new symbols. The DNR tattoo’s psychological meaning is addressed in Section 5; it is not a supernatural power.
+- **Grills:** gold upper grills and silver lower grills. They are visible when the mouth is open or he smiles; do not display them through a closed mouth.
+- **Eyes:** retained right Sasuke-pattern Eternal Mangekyō Sharingan and approved perception/copy/illusion/Black Fire functions. Rinnegan is removed. A matching left Eternal Mangekyō is only proposed and has not been granted. No Susanoo grant.
+- **Blood:** black, thick, viscous and oozing. It is not automatically acid, autonomous slime, infection or a new attack.
+- **Nature / mutation:** permanent true-Darkin nature, CASA and BLACKLIGHT biology. Saiyan ancestry, custom Demon Realm Majin ancestry and the Buu-derived package are removed. No replacement birth-race label or revised origin scene has been specified. Kaze is not a separate demon, possessed host or second personality.
+- **Transformations:** no fixed named Kaze transformation progression is currently established. Catastrophic escalation may produce drastically darker/more demonic appearance without inventing a named form, numerical multiplier, form cost or unlock event.
 
-### 1. Exact Canonical Spellings & Known Aliases
+## 4. Combat Kit, Weapons, Abilities & Mechanics
 
-- **Primary fictional-character name:** Kaze.
-- **Creator / real-world identity reference in the Act checkpoint:** Kaze (Tristan). Tristan is the creator/final authority; this parenthetical does not collapse the fictional character into the real-world creator or authorize importing the creator's personal biography into the character.
-- **Faction / identity descriptor:** Almighty Ambrose street soldier; 815 DeKalb / Chicago Ambrose identity and cadence.
-- **Bounty billing:** 1,502 Brapples. The checkpoint records the calculation as Lobo's 1,501 fee plus a one-Brapple tip. This is a bounty value, not a new alias or power level.
-- **[OPEN]:** no additional current Act-branch nickname, title, legal name, or alternate identity is established in the November 11 ledger.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Kaze owner describes one genuine Kaze across realities and prohibits alternate genuine Kaze copies, timeline doubles, or evil counterparts. This is a hard rule in that older owner, but the Act 35–45 checkpoint does not restate its scope. Do not introduce an alternate Kaze on the basis of a timeline glitch alone; request or await explicit branch-level confirmation before treating the older rule as controlling here.
+**Physical and close combat**
+- Independent strength, speed, durability, training and learned physical combat remain valid. His functional routing includes boxing, Muay Thai/Lethwei, interception/economy, MMA, Combat Sambo, catch wrestling, Greco-Roman/Judo, Kali/Escrima weapon control, kenjutsu/battōjutsu and dirty fighting. Apply actual anatomy, leverage, access, resistance and terrain.
+- Kaze is a hybrid combat-system / body-first monster combatant. He remains dangerous without his sword.
+- Regeneration can rapidly heal, regrow limbs and recover from near-total bodily destruction; greater reconstruction requires greater energy/resources. During prolonged extreme fights his fatigue resistance can increase as he escalates, but this is not infinite stamina.
+- He may tactically accept damage, or break/dislocate/sever and rebuild his own anatomy to escape a restraint. Detached viable body parts remain linked to one Kaze consciousness and can act within their actual anatomy/sensory limits. This does not create clones or extra minds.
+- **Hard subtraction:** The Black Marrow is his sole formed BLACKLIGHT weapon. No extra biological blades, axes, hammer-fists, combat spikes, weaponized whip-tendrils, elongated punches, stretching grapples or spatially routed limbs. Combat clawing, claw swipes and scratching/raking attacks are prohibited.
 
-### 2. Living Status & Current Location (Post-Act 30 Present Day)
+**Energy / supernatural systems**
+- Unusual Ki remains for internal reinforcement, pressure and valid non-projectile uses. Outward Dragon Ball-style Ki blasts, beams, spheres and projected attack waves are removed. Divine or Negative Energy cannot be used to recreate the deleted projectile mode under a different name.
+- **Divine Nature:** permanently built-in god-level energy can reinforce his body, strengthen valid contact attacks, sense/interact with divine power and channel through compatible retained systems. It is not an automatic one-shot, universal immunity, universal defense bypass, immortality, office/title or Ultra Instinct.
+- **Negative Energy Nature:** destructive/corruptive supernatural energy can coat compatible physical or Black Marrow attacks and interact through its established mechanics. It is not automatic anti-magic, technology shutdown, regeneration cancellation or instant corruption on touch.
+- Permanent Darkin inheritance includes heightened physicality/resilience, blood/flesh manipulation, supernatural recovery using compatible biological material, corruption interaction/resistance, weapon/body synchronization and reshaping his own existing body through Darkin fleshcraft. It does not grant Aatrox’s memories, named moves, World Ender, personality, combat experience or full moveset.
+- BLACKLIGHT is programmable biology, armor, regeneration and viable-anatomy management under its own owner. It does not restore Buu flexibility/transmutation or authorize a second weapon factory.
+- Warwick-derived Predator Senses and Chimeric Recovery remain. Senses can use actual scent/injury/stress chemistry and established traces; no global tracking or electrical sensing.
+- Sukuna / SHINIGAMI SHRINE is fully retained. Cleave and World-Cutting Slash are sword-delivered; all technique conditions remain. RCT is a separate healing function.
+- Soul Architecture and valid soul/curse interactions remain. Contact curses, regeneration suppression, binding and sealing require valid contact/access through punches, bites, grapples, Black Marrow contact, viable detached anatomy or pins. Anti-regeneration effects progress through suppression, localized lock, corruption and adaptation of the actual target mechanism; they are not universal instant shutdowns.
+- Retained Nightmare pressure is Nocturne-derived and governed by its own access/target rules. It does not restore the deleted fear archive, avatar, permanent links or other League demon packages.
+- The right Sharingan retains approved movement/energy reading, compatible copying, genuine eye-contact illusion and Black Fire within its own mechanics. It is not a Rinnegan substitute.
+- No conventional sustained free flight/Bukujutsu. Aerial movement is ballistic super-jumping, momentum control, midair correction, surface rebound and chaining; long-range travel still needs a legitimate mechanism. Portals, saved endpoints, Rinnegan swaps and other non-ocular spatial movement are removed.
+- The Black Marrow is one indestructible living bonded weapon, Ornn-forged in its original history and now permanently loyal to Kaze. It has integrated nonverbal awareness, strongest instinct combat curiosity, but does not speak, telepathically converse or maintain an independent agenda. Kaze’s clear final intent overrides its warning/resistance.
+- Its adaptive effect can overcome defenses once Kaze consciously understands the relevant defense/offense/movement/generation/recovery/survival mechanic. Understanding may come from danger sense, direct interaction, observation, experimentation, valid soul information, reliable prior information or legitimate inference. Completed adaptations are permanent and active; penetration after adaptation is guaranteed, but Kaze chooses damage depth/severity. It does not automatically know every defense or bypass before understanding it.
+- Delayed sword cuts can remain pending in valid batches until the established full-seat/sheathing trigger; selective triggering requires encoded intent/sequence or a maintained body-network extension actually seating the sword. Not arbitrary thought detonation.
 
-- **Status:** alive and active at the end of Act 42. He participates directly in the Act 42 confrontation with Lobo and delivers the mule-kick that helps establish the outlaw settlement.
-- **Last confirmed story position:** Act 42's Lobo confrontation and settlement. The checkpoint does not give a street address, planet-side coordinate, ship berth, or exact post-settlement travel position.
-- **Heart placement:** Kaze's physical beating heart is being carried in Lobo's saddlebag. Military scanners read Lobo as Kaze. Preserve both facts together; do not “correct” the scanner result or relocate the heart without a source-backed event.
-- **Contract:** 1,502 Brapples. Lobo arrives to collect it in Act 42; the confrontation resolves in an outlaw settlement rather than a confirmed payment or bounty completion.
-- **Alcohol / driving:** Kaze never drinks and cannot drive. Treat both as current Act-ledger restrictions, not casual tendencies.
-- **[OPEN]:** the exact physical mechanism that permits Kaze to remain active while his beating heart is in Lobo's saddlebag; whether any substitute, tether, circulation system, regeneration process, or other support is involved; the exact custody status of the heart after the settlement; and Kaze's exact location at the opening of Act 43.
+**Catastrophic escalation / limitations**
+- Catastrophic escalation may be triggered by rage, extreme injury, serious harm/death to someone he loves, or soul instability. He remains the same conscious person with agency and responsibility. Extreme upper-risk can reach universe-level danger, but this is not baseline power or a numerical tier.
+- Main drawback at catastrophic depth: soul/energy instability.
+- Permanent-death condition is deliberately mysterious. Do not invent what can finally kill him.
+- Removed systems: BLACKCURRENT and electrical derivatives; Rinnegan/Amenotejikara/Swap/gravity and dependent ocular absorption/perception/Ryuk-sight; League demon packages except Nightmare (including Fiddlesticks/Fear Nature, Mimic-Mock, fear feeding/archives/links/manifestations/avatar, Raum, Ashlesh and Tahm); future imports from Atakhan, Camphor, Evelynn and Shaco are cancelled; generic Ki projectiles, non-ocular portals, extra BLACKLIGHT weapons, elastic combat and earlier retired routes remain retired. No alias or broad wording restores them.
 
-### 3. Physical Appearance, Baseline Scale & Forms/Mutations
+## 5. Core Psychology & Character Engine
 
-- **ACT-CONFIRMED:** the current Act ledger identifies Kaze as a street soldier and confirms that he physically fights Lobo in Act 42. It does not provide a height, weight, face, hair, clothing, scars, prosthetics, species, or mutation description.
-- **[OPEN — ACT BRANCH]:** exact height, weight, body proportions, skin tone, hair, eyes, tattoos, scars, clothing, footwear, armour, prosthetics, body alterations, and current transformed/resting state.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older `04_KAZE_SINS.md` contains several visual states and a detailed post-Mercer configuration. One older pre-Mercer baseline is 5'11", 150 lb, lean/slender-athletic rather than bulky; an older post-Mercer note describes living BLACKLIGHT anatomy/armour, asymmetrical upper-body coverage, retained right-eye Sharingan presentation, and Black Marrow. These are not stated in the November 11 Act checkpoint and must not be used to fill the current Act character sheet unless Kaze confirms the branch transfer.
-- **Never merge incompatible historical visual states:** the older owner distinguishes a pre-Mercer visual state from a later evolved post-Mercer state. Even within that older branch, they are not interchangeable snapshots. The Act 35–45 source does not identify which, if either, applies.
+- **Narrative role:** villain protagonist, not a mandatory villain in every beat and not a generic evil archetype. His morality is self-sovereign rather than alignment-driven: he decides what to permit, condemn, protect, take, destroy or ignore through his own values and current state.
+- **Central contradiction:** he can be analytical and impulsive, cold and emotionally intense, loyal and suspicious, generous and ruthless, self-aware and self-destructive, calm and dangerous, independent and attachment-driven, funny and disturbing. These contradictions coexist; do not resolve them into a simple “soft inside” or “monster outside” trope.
+- **Powerlessness resistance:** humiliation, coercion, betrayal, manipulation, being treated as stupid, being trapped, forced dependency, loss of control and being prevented from acting create strong pressure. The response varies: confrontation, withdrawal, mockery, analysis, intimidation, provocation, revenge, coldness, calculated or reckless action. No single universal reaction.
+- **Action over helplessness:** he generally tolerates pain better than helplessness. Fear may become anger; hurt may become confrontation; humiliation may become defiance; uncertainty may become investigation. This is not a compulsory escalation chain.
+- **Loyalty / attachment:** values loyalty, reciprocity, directness, courage, authenticity, competence and people standing behind what they say. Deep bonds give trusted people more patience/access. Attachment changes weighting but is not an absolute control mechanism. Betrayal hurts both because of the act and because he feels foolish for trusting.
+- **Moral permission is not compulsion:** innocence, surrender, fear, usefulness or social protection do not automatically protect a target, but Kaze is not required to kill every person he has permission to hurt. He may intervene from selfishness, curiosity, disgust, irritation, predatory opportunity, pettiness or genuine care; do not secretly rewrite a weak motive as hidden heroism.
+- **Violence / intensity:** intensity-seeking is central. He may enjoy a particular kill without universally loving killing. Overkill can be curiosity about what an attack does to flesh, armor, regeneration, terrain, architecture or barriers; it may also be punishment, humiliation or warning. If a decisive power advantage is obvious, impatience normally shortens the fight rather than creating a sport exchange.
+- **Fear / anger:** fear may be deliberately converted into anger or violence. His most dangerous anger can be quiet, flat, precise and followed by worse violence. Silence alone is not proof of anger. A death stare and controlled stillness can be an escalation tell.
+- **Impatience / cognition:** fast pattern recognition and impatience are active traits. He can interrupt stalling, ritualized speech, repeated tactics, setup choreography, monologues or artificial suspense. He may skip to the important part, act during a setup, break a mechanism, leave or play along because the bait interests him. He can still misread motives or unfamiliar mechanics; he is not omniscient.
+- **Self-awareness:** he can identify his own bad faith, irrationality, destructive patterns and self-sabotage while continuing to choose them. Insight does not automatically improve behavior. He can admit error and revise a decision.
+- **Mental-health fidelity:** the psychology owner specifies ADHD, PTSD, BPD and social anxiety as character-fidelity factors. Portray impairment, friction, dysregulation, masking and context-dependent severity realistically. These conditions do not create, excuse or automatically explain villainy, cruelty or killing. Keep supernatural danger sense separate from trauma-shaped hypervigilance, which can overread ambiguity and be wrong.
+- **DNR tattoo subtext:** the forehead tattoo’s surface joke is that ordinary resuscitation seems absurd against his regeneration/survivability. Underneath, the owner records genuine death ambivalence: the idea that permanent death might someday be an off-switch can be quietly reassuring even while he loves living, his people, pleasure and exploration. Keep this understated; it does not mean he refuses ordinary lifesaving help while alive.
+- **Narrative Recognition:** he may perceive narratively defining truths (wounds, failures, contradictions, relationships, vows, shame, grief, identity fractures) under direct focus. He may push deeper at increased exposure/unease. This is not ordinary mind-reading, a full biography download, arbitrary password access, unrelated memories, hidden powers or facts without a valid narrative/perceptual route.
+- **Fourth-wall scope:** literal audience awareness and intentional interdimensional travel are established. This does not grant every fact in existence, source-file access, automatic omniscience or knowledge outside valid information/provenance rules.
 
-### 4. Combat Kit, Weapons, Abilities & Mechanics
+## 6. Voice, Dialogue & Performance Guidelines
 
-**Act-confirmed combat evidence**
+- Natural conversational voice: intelligent but informal, relatively deadpan, naturally profane, direct in intent but not always syntactically direct, relaxed when nothing is wrong, playful/sarcastic when appropriate, psychologically observant.
+- Live thought construction is essential. He may use fillers, pauses, false starts, repetition, abandoned syntax, word searching, corrections, examples and reframing. His thought often moves **messy build → verbal search → correction/reframe → distinction clicks → precise landing**. Do not polish all disfluency away or exaggerate it into incoherence.
+- Individual thought-units are often short-to-medium; a full speaking turn may be long and contain connected clauses, examples, side comments and restarts. Do not impose a one-line rule.
+- Intelligence appears through precision, distinctions, analogies, correct questions, identifying hidden assumptions and cutting through bullshit—not academic vocabulary or artificial formality.
+- Do not force Chicago coaching, exaggerated Hawaiʻi Pidgin, phonetic accent spelling, stock gang slang, “hermano,” or slang stacking. The older regional vocabulary pool is retired as coaching. The November 11 Space Saga handoff’s Chicago/Almighty Ambrose cadence is a current branch flavor, not a licence to caricature every line.
+- Do not make him a stock anime protagonist, philosopher, edgelord, therapist, monologue dispenser, one-liner machine, permanently angry person or theatrical threat machine. He rarely explains powers voluntarily and may give mocking, partial or deliberately incomplete explanations.
+- Profanity is normal vocabulary across relaxed, joking, confused, explanatory, irritated and angry states; profanity alone does not indicate maximum anger.
+- `no diddy` is a narrow, trigger-based exact phrase when Kaze actually perceives a genuine accidental innuendo/double-entendre opening. Do not force setups, repeat it as a quota or suppress a genuine opening solely because a scene is serious.
 
-- Act 37 records Kaze's Chicago Ambrose street rage and a confrontation with a municipal DMV kiosk. The kiosk vandalism is an event, not an additional power.
-- Act 39 records a duel pairing Kaze's **twin black reverse-grip blades** against Bee Moo's accidental Tràkata tail-saber. The checkpoint does not give the blades' formal names, origin, exact materials, dimensions, or supernatural properties.
-- Act 42 records a raw Almighty Ambrose street brawl with Lobo and Kaze's mule-kick. Preserve the street-fighting presentation rather than turning the event into a clean, formal tournament duel.
-- **[OPEN]:** exact firearm inventory, ammunition, armour, blade names, range, supernatural systems, transformation availability, healing mechanics, movement ceilings, resistance values, and combat limits in this Act branch.
+## 7. Verbatim Locked Dialogue & Signature Catchphrases
 
-**Older source-owner inventory — not current Act authorization**
+- **`no diddy`** — exact phrase, trigger-based; not periodic or quota-driven.
+- Behavioral lanes such as “what’s the important part?”, “skip this shit,” “who do I gotta kill?” and “can you skip to the important part?” are examples, not exact mandatory catchphrases. Wording remains scene-specific.
+- **“come on, pull the fucking trigger”** is an author-selected energy/behavioral lane when Kaze may invite a threat to act; exact wording varies and must not be treated as a mandatory quote.
+- No other exact universal catchphrase is established by these owners. Do not fabricate one.
 
-The attached older Kaze owner documents a large progression package, including True-Darkin identity, BLACKLIGHT biology, Black Marrow, Soul Architecture, Predator Senses / Chimeric Recovery, Sukuna / Shinigami Shrine, a retained right Eternal Mangekyō, and Nightmare-derived pressure. It also explicitly removes or retires other systems, including Saiyan and custom Demon Realm Majin ancestry, the Buu-derived package, BLACKCURRENT/electrical derivatives, Rinnegan, Amenotejikara / spatial swap, non-ocular portals, Soul Harvest, and multiple fear/demon packages. This is valuable source-owner evidence but belongs to the older Runeterra branch. None of those systems should be inserted into Acts 35–45 as active kit solely because they appear in `04_KAZE_SINS.md`.
+## 8. Real-World Lānaʻi Lore & Cultural DNA
 
-### 5. Core Psychology & Character Engine
+- The actual character-owner set contains a dedicated Sins group/reputation source and a SBU/gang mobility/fidelity source. The November 11 Space Saga handoff explicitly identifies Kaze with Almighty Ambrose / 815 Chicago street-soldier context. Preserve that as the current branch’s supplied cultural DNA, not as permission to fabricate real-world crimes, events or biography into the fictional character.
+- Kaze wears Air Forces, never boots. The source owner explicitly rejects using Chicago as generic speech coaching; avoid regional caricature.
+- No separate Kaze-specific Lānaʻi childhood, family origin, residence or island biography is established in these fidelity owners. **[OPEN]** unless another accepted source establishes it.
+- S7NS group context: the Sins are a chosen-family outlaw gang, not a hired rescue crew, rank-and-file army or morally unified vigilante squad. There is no permanent boss; Kaze is not a mandatory order source or the others’ command queue.
 
-- **Act-confirmed characterization:** Kaze's reaction to the 1,502-Brapple bounty is framed as an ego death. Act 37 explicitly frames the amount in comparison with Han's 6B and Dutch's 1M, and records his rage at the disparity. Do not flatten this into a simple money joke; the checkpoint identifies an ego response.
-- **Act-confirmed social identity:** his 815 DeKalb / Chicago Almighty Ambrose street-soldier identity is central to the way he meets Lobo in Act 42. His violence is presented as a raw street brawl, not as an abstract “power demonstration.”
-- **[OPEN — ACT BRANCH]:** a complete psychological architecture, personal values hierarchy, emotional triggers, loyalty model, trust thresholds, moral boundaries, vulnerability pattern, and decision rules are not reproduced in the November 11 checkpoint.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Kaze psychological bible classifies him as a self-sovereign villain protagonist rather than an alignment-driven hero. It describes selective loyalty, autonomy, intensity-seeking, predatory curiosity, impatience, dark humour, genuine attachment, self-awareness, and the capacity for sincere affection or restraint alongside deliberate cruelty. It also distinguishes his fictional decisions from any mental-health diagnosis. That is detailed and useful, but must not be silently transplanted into this Act continuity until branch authority is reconciled.
-- **Do not invent a hidden noble motive** to explain an act the current script presents as petty, selfish, violent, curious, or ego-driven. Equally, do not assume every provocation forces Kaze to attack; no such blanket trigger is established by the current checkpoint.
+## 9. Inter-Character Dynamics
 
-### 6. Voice, Dialogue & Performance Guidelines
+- **Chris:** Kaze uniquely knows how to get under Chris’s skin through familiar triggers, precise timing, bait, overhelp, favors and withheld details. Preserve Chris’s competence, counterplay and genuine attachment. Their conflict is not a license to make Chris stupid or helpless.
+- **Daynah/Dana:** Kaze has revealed meta secrets that shape Dana’s Saiyan/gamma/protector path. Dana’s trust in Kaze is complicated loyalty, not blind obedience or automatic opposition. Dana may disagree and still back Kaze in morally difficult cases.
+- **Catfish Billy:** Kaze, Chris and Billy have literal fourth-wall awareness under separate acquisition histories. Billy’s knowledge/travel permissions are not automatically Kaze’s or Chris’s. They may sustain narrator exchanges within the shared information firewall.
+- **Mahnah/Mana:** Kaze may care for and interact with Mana but does not claim primary ownership; Mana is Dana’s dog. Kaze may readily give him convenience/junk food because Kaze can steal more, but this is a situational habit, not an ownership claim.
+- **Group:** Kaze can protect the Sins and be fiercely loyal while remaining independent. The others have agency, may refuse, challenge or leave, and are not a command queue. Cooperation against a common threat does not imply forgiveness.
+- **Lobo:** in the November 11 overlay, Lobo carried Kaze’s heart and pursued the 1,502-Brapple contract; the encounter ended in an outlaw settlement. Exact continuing relationship after settlement is **[OPEN]**.
 
-- **ACT-CONFIRMED:** the voice lane is 815 DeKalb / Chicago Almighty Ambrose street-soldier cadence. Keep it grounded in the stated identity; do not replace it with generic “tough guy” dialogue or a broad, phonetic accent caricature.
-- The Act checkpoint does not specify a detailed regional phonetic model, exact slang inventory, pitch, vocal texture, pacing, or fixed catchphrase set. **[OPEN]** for those elements.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Kaze speech bible describes conversational, intelligent-but-informal, relatively deadpan, naturally profane speech; building thoughts aloud; false starts, pauses, repetitions, and self-correction; a long speaking turn made of short-to-medium thought units; and a clean point reached through a messy verbal path. It warns against clipped-fragment-only dialogue, polished cinematic villain speeches, forced slang, and exaggerated Hawaiʻi Pidgin. The older speech bible also includes a Vaas-derived conversational spiral/question-chain layer, but explicitly rejects copying Vaas's biography, accent, exact routines, or catchphrases.
-- **Do not phonetically spell the Act-confirmed Chicago cadence** unless an approved performance owner specifically requires it.
+## 10. Canon Guardrails & “Never Invent” Prohibitions
 
-### 7. Verbatim Locked Dialogue & Signature Catchphrases
-
-- **No verbatim Kaze dialogue line is explicitly locked in the November 11 Act 35–45 checkpoint.**
-- “1,502 Brapples” is a locked factual billing value, not a spoken catchphrase.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Kaze speech owner locks the exact phrase **“no diddy”** to a genuine, actually perceived double-entendre / suspicious-phrasing trigger. It is trigger-based, not a quota. Its use in the current Act branch is **[OPEN]** until the older speech owner is adopted for this branch.
-- Older examples such as “what's the important part?”, “skip this shit,” or “who do I gotta kill?” are described as scene-specific behavioral examples, not fixed mandatory dialogue. Do not treat them as verbatim canon lines.
-
-### 8. Real-World Lānaʻi Lore & Cultural DNA
-
-- Kaze is one of the named S7NS producers in the **Boys Club** tent: a pop-up gazebo across from the Lānaʻi post office, shared with Chris, Dana/Daynah, and Mana/Mahnah.
-- The tent name originates from Chris playing **“Boys Club” by Weezer** on repeat for six hours. Wade is an initiated member of the tent's club.
-- The Act checkpoint explicitly ties Kaze to **815 DeKalb / Chicago Almighty Ambrose** street identity. Act 37 also directly calls out Chicago Ambrose rage.
-- The prehistoric pimp-rooster exchange is part of the real-world Lānaʻi / production lore: Wade backs Kaze against Chris, invoking the rooster's ancestral land rights dating to King Kamehameha. The absurd claim is the joke's established lore; do not turn it into a factual biological lifespan or actual property deed without an in-story event.
-- The local “coconut wireless,” aunties, idling silver Tacomas, and the post-office setting are part of the presentation's Lānaʻi social environment. “Uncle” and “Aunty” are respect terms and do not necessarily mean blood relation.
-
-### 9. Inter-Character Dynamics
-
-- **Lobo:** direct bounty-contract conflict. Lobo carries Kaze's beating heart; military scanners identify Lobo as Kaze. Lobo confronts Kaze in Act 42, and the settlement ends without a documented Lobo victory. The current ledger's hard rule is that Lobo never beats Kaze. Space dolphins are Lobo's recorded weakness.
-- **Chris:** fellow Boys Club producer and member of the S7NS crew. Act 39's rooster rant is directed to Chris. Deeper personal dynamics are **[OPEN — Act branch]** unless separately confirmed.
-- **Daynah / Dana and Mahnah / Mana:** fellow named Boys Club producers. The exact current relationship language and operational roles beyond that membership are **[OPEN — Act branch]**.
-- **Bee Moo / Brian:** Kaze's bounty-value humiliation and Bee Moo's advertised 700k value occur in the same Act sequence; Act 45's queued spine brings Bee Moo for the real Kaze. This is a future confrontation, not a completed Act 45 fight.
-- **Wade / Deadpool:** lead narrator and initiated Boys Club member. Act 38 includes Wade's timeline-branch line “I loved YOU”; the checkpoint does not specify Kaze's reaction to that line.
-- **[OPEN]:** exact romantic, familial, command, debt, and alliance status with anyone not explicitly stated above.
-
-### 10. Canon Guardrails & “Never Invent” Prohibitions
-
-- Never conflate the real-world creator Tristan with the fictional character Kaze.
-- Do not invent a physical location, heart-replacement mechanism, new heart custody event, or scanner explanation.
-- Do not change the exact bounty value or its recorded calculation.
-- Do not let Lobo win; this is a direct current ledger restriction.
-- Do not make Kaze drink or drive; both are explicit current ledger prohibitions.
-- Do not create a new blade name, firearm, transformation, supernatural system, resistance, or movement capability without a current source.
-- Do not automatically transfer the older Runeterra Kaze kit into the Act 35–45 workstream.
-- Do not turn the Ambrose street-soldier identity into constant slang stacking, phonetic caricature, or a generic Chicago accent performance.
-- Do not invent Kaze dialogue and label it author-locked. No exact Kaze catchphrase is established in the current Act checkpoint.
-
----
-
-# CHRIS
-
-### 1. Exact Canonical Spellings & Known Aliases
-
-- **Primary name:** Chris.
-- **Current role descriptors:** Louisiana marksman; anti-sci-fi purist; Southern pragmatist. These are the user's current Tier 1 labels and the Act ledger's anti-sci-fi characterization.
-- **Shared-body partner:** Catfish Billy. The current Act checkpoint names the arrangement **SCHLUCK-POP** and confirms the one-exterior-body rule.
-- **[OPEN]:** full legal name, additional nickname, rank, family name, exact hometown, exact Louisiana locality, and whether “Louisiana” is birthplace, residence, cultural origin, or simply the current performance identity.
-- **BRANCH CONFLICT TO PRESERVE:** the older 2026-10 Chris source identifies him as a human/Earthling born in Milwaukee, Wisconsin. The current user-provided roster calls him a Louisiana marksman. These statements are not automatically mutually exclusive, but their relationship is not explained in the Act branch. Do not silently rewrite Milwaukee to Louisiana or assume Louisiana is only an accent; record the biography/location question as **[OPEN]** pending Kaze's resolution.
-
-### 2. Living Status & Current Location (Post-Act 30 Present Day)
-
-- **Status:** alive and active in the Act 35–45 workstream. He is in the roster and has a specific queued role in Act 43.
-- **Current body arrangement:** one exterior-body rule with Catfish Billy (SCHLUCK-POP). Only one of them is exterior at a time. The checkpoint does not state which one is currently exterior after Act 42.
-- **Current location:** **[OPEN]**. The checkpoint does not give Chris's exact physical location, room, ship, or BELLY position at the post-Act-42 endpoint.
-- **Act 43 queued action:** Chris repairs the Millennium Falcon's hyperdrive using possum grease and a hammer. This is a planned Act 43 beat, not a repair already performed as of the Act 42 endpoint.
-- **[OPEN]:** exact injury state, possessions, carried firearms, ammunition, current exterior/interior control, and whether he is aboard the Falcon at the opening of Act 43.
-
-### 3. Physical Appearance, Baseline Scale & Forms/Mutations
-
-- **[OPEN — ACT BRANCH]:** the November 11 checkpoint gives no height, weight, build, hair, eye colour, facial hair, clothing, scars, tattoos, prosthetics, cybernetics, or mutation state.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Chris visual owner specifies 5'7", 170 lb, human, messy brown hair, scruffy beard, amber headlamp, dark neck cowl, sleeveless scavenger-gunslinger clothing, crossed ammunition bandoliers, exposed tattooed arms, asymmetrical forearm protection, belts, red waist cloth, rugged trousers, and worn boots. It also describes an earned Jungle Hunter mask with mechanically stowing components. These exact appearance and equipment details belong to the older source branch and approved visual reference; they are not present in the Act checkpoint.
-- Do not use an older visual sheet to fill the current Act character model without confirmation that it still governs this branch.
-
-### 4. Combat Kit, Weapons, Abilities & Mechanics
-
-**Act-confirmed**
-
-- Chris is identified by the current roster brief as a **marksman**.
-- His governing attitude toward advanced science-fiction weaponry is explicit: he rejects blasters and prefers a conventional lead projectile over a device needing a firmware update.
-- Act 43 queues a practical hyperdrive repair using **possum grease and a hammer**. This supports a grounded, improvised mechanic approach in that scene; it does not establish general mastery of all starship systems or a completed repair before Act 43.
-- **[OPEN]:** firearm models, ammunition types, exact range/accuracy, armour, blade kit, tactical optics, mask systems, healing, reflexes, and any supernatural powers in this Act branch.
-
-**Older owner details — branch confirmation required**
-
-The older Chris owner describes an executive-chef skill set, practical engineering/fabrication, firearm/marksman skill, gaming/looting behaviour, and an earned two-revolver / rifle progression. It also states Chris has no Ki, Ki sensing/control/blasts, magic aptitude, spellcasting, or magic utility. The owner stresses that fabrication requires legitimate materials, tools, time, knowledge, measurement, and testing; possession of alien technology does not grant the ability to understand or activate it. It also prohibits free upgrades, invented ammunition, plug-and-play supernatural components, and unexplained compatibility. These are robust restrictions in the older branch, but the Act branch's complete kit is **[OPEN]**.
-
-### 5. Core Psychology & Character Engine
-
-- **Act-confirmed:** Chris is an anti-sci-fi Southern pragmatist. He distrusts or dismisses blasters as unnecessary technological excess, and the queued Falcon repair is framed as hands-on improvisation rather than a generic shipwright showcase.
-- The Act checkpoint also records **zero remorse about Clifford / adult Jack Marston**. Do not soften or reverse that stated current position by giving Chris unrecorded guilt or retrospective remorse.
-- Chris's devotion to **Red Dead Redemption 2** is described as sacred in the current Act ledger. It is not merely a one-off reference or generic “likes games” trait.
-- **[OPEN — ACT BRANCH]:** the current checkpoint does not fully establish Chris's underlying values, humour architecture, relationship to authority, exact emotional triggers, degree of selfishness, or the full reason for his anti-sci-fi stance.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older character owner frames Chris as a competent, practical, patient, task-oriented chef/fabricator/gamer who can still be profane, abrasive, disgust-driven, selfish, pettish, reckless, or violent. It describes “competence as psychological territory”: Chris often tries to frame a chaotic problem as a kitchen, technical, social, negotiation, or game problem so he has a usable way into it. Sometimes the frame is useful; sometimes he overcommits. It also warns not to reduce him to an incompetent sidekick, universal fixer, or moral centre.
-- The older owner treats his looting and hoarding as ordinary behaviours requiring real access and time, not supernatural inventory detection. This is not a current Act behaviour quota.
-
-### 6. Voice, Dialogue & Performance Guidelines
-
-- **ACT-CONFIRMED:** Southern pragmatist; anti-sci-fi purist. Keep his speech rooted in practical objections and blunt mechanical comparison rather than technobabble.
-- **[OPEN]:** exact Louisiana regional accent, degree of drawl, phonetics, vocal register, pacing, and the scope of the “Louisiana” identity.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older owner describes Chris as profane, abrasive, observational, grotesque, and capable of unexpectedly specific analogies. His longer comic comparisons are supposed to connect internally rather than become random word salad. He can self-correct mid-sentence, become exact when a real task demands concentration, and speak with genuine care without turning into a sanitized storyteller. The speech research is informed by broad performance influences but explicitly prohibits copying a living comedian's biography, exact routines, or catchphrases.
-- Do not automatically give Chris a generic deep-South accent simply because the Act label calls him a Louisiana marksman. Do not render accent phonetically without an approved speech owner.
-
-### 7. Verbatim Locked Dialogue & Signature Catchphrases
-
-- **Queued Act 43 line — exact wording:** “a lead ball don't need a firmware update.” It is explicitly in the Act 43 outline and should be preserved verbatim when that planned beat is written. It has **not yet been spoken** in the Act 42 endpoint.
-- No other verbatim Chris dialogue is locked by the November 11 checkpoint.
-- The older owner contains possible phrases and examples from fabrication, cooking, and Red Dead speech; they are examples of available language rather than a mandatory repeated catchphrase list. Do not promote them into current Act quotes without a source/author lock.
-
-### 8. Real-World Lānaʻi Lore & Cultural DNA
-
-- Chris is a named producer in the **Boys Club** gazebo across from the Lānaʻi post office, alongside Kaze, Dana/Daynah, and Mana/Mahnah.
-- The group's name comes from Chris playing **“Boys Club” by Weezer** on repeat for six hours. This is a behind-the-scenes origin, not an in-story band affiliation or character alias.
-- Chris participates in the Bluetooth-speaker / post-office / silver-Tacoma / coconut-wireless ecosystem. Act 39 specifically places the prehistoric pimp-rooster rant in a conversation directed at Chris and includes Wade's speaker yell at the post-office Tacoma.
-- **[OPEN]:** whether Chris's Louisiana descriptor comes from actual residence, family history, accent, upbringing, or another source. Do not infer that from his presence in Lānaʻi.
-
-### 9. Inter-Character Dynamics
-
-- **Catfish Billy:** one-exterior-body arrangement, SCHLUCK-POP. They are separate listed characters, not aliases for one person. The current checkpoint establishes the shared-body constraint but does not specify the post-Act-42 controller or which character is currently outside.
-- **Kaze:** co-producer in the Boys Club tent; Act 39 conversation about the rooster is directed to Chris. Additional personal history and current interpersonal temperature are **[OPEN]** in the Act branch.
-- **Daynah / Dana and Mahnah / Mana:** fellow Boys Club producers. Exact operational partnership, household status, and current location are **[OPEN]**.
-- **Clifford / adult Jack Marston:** current ledger explicitly records zero remorse from Chris. Do not invent reconciliation, guilt, or a change of position.
-- **Red Dead Redemption 2 / Arthur and the Van der Linde cast:** sacred devotion to RDR2 is confirmed, but the exact Act-branch relationships to imported game characters need their own entries and current scenes.
-
-### 10. Canon Guardrails & “Never Invent” Prohibitions
-
-- Keep Chris separate from Catfish Billy; two characters, not one consciousness or two aliases.
-- Preserve the one-exterior-body rule. Never stage both as physically exterior at once.
-- Do not decide which one is currently exterior after Act 42 without checkpoint/script evidence.
-- Do not turn the Act 43 hyperdrive repair into a completed past event. It is queued, and the repair is not the central plot: the Falcon custody dispute remains the Act's spine.
-- Preserve the exact lead-ball line; do not rewrite it into a generic “guns beat tech” slogan.
-- Do not give Chris a blaster acceptance reversal without an author decision.
-- Do not invent a specific firearm, bullet, ammunition count, technical power, starship engineering credential, or repair outcome.
-- Do not resolve the Milwaukee/Louisiana biography question by assumption.
-- Do not import older visual designs, masks, no-Ki/no-magic rules, or the full older weapons kit as current Act facts without confirming the branch transfer.
-- Preserve the current zero-remorse note about Clifford / Jack Marston and his RDR2 devotion.
+- Never restore Saiyan/Majin/Buu ancestry, BLACKCURRENT/electrical derivatives, Rinnegan/Amenotejikara/Swap, non-ocular portals, deleted League demon packages, Ki projectiles, free flight, claw combat, elastic attacks or additional formed BLACKLIGHT weapons.
+- Never invent replacement birth biology, a named transformation ladder, numerical multipliers, the exact permanent-death condition, left-eye replacement, Susanoo, new sword powers, complete sword energy list or a new sword personality/voice.
+- Never make CASA a second mind or excuse for Kaze’s choices.
+- Never turn danger sense into omniscience or confuse it with trauma hypervigilance.
+- Never treat self-awareness as automatic self-control, attachment as an absolute override, or every insult as an automatic death sentence.
+- Never import real-world creator biography into fictional canon without an explicit source decision.
+- Preserve all OPEN sword/visual/energy design items and the exact post-Act 42 location as **[OPEN]**.
 
 ---
 
-# DAYNAH / CANONICAL SEARCH NAME: DANA
+# CHRIS / CHRIS
 
-### 1. Exact Canonical Spellings & Known Aliases
+## 1. Exact Canonical Spellings & Known Aliases
 
+- **Primary canonical name:** Chris.
+- Chris and **Catfish Billy** are two separate people/consciousnesses. Catfish Billy is not Chris’s true name, secret identity or single merged personality.
+- No full legal surname is established in the controlling character owners. **[OPEN]**.
+- The supplied roster description “Louisiana marksman” is not supported as Chris’s birthplace by the controlling owner: Chris is recorded as a human/Earthling born in **Milwaukee, Wisconsin**. Louisiana is Catfish Billy’s bayou-origin association. Do not transfer Billy’s birthplace to Chris.
+- The November 11 handoff’s “anti-sci-fi purist” shorthand may describe the current Space Saga presentation, but it is not a complete substitute for Chris’s character-owner psychology or a universal identity rule.
+
+## 2. Living Status & Current Location (Post-Act 30 Present Day)
+
+- **Living status:** Alive in the November 11 Act 42 present-day branch; no death is recorded in the supplied checkpoint.
+- **Shared-body status:** Chris and Catfish Billy retain one exterior body with two independent minds. The exact current exterior controller in the post-Act 42 Space Saga state is **[OPEN]**; do not assume Chris is outside or inside solely because the roster calls Billy “the host body.”
+- When Chris is the exterior actor, Billy is the full-sized interior occupant in BELLY OF THE BILLY; when Billy is exterior, Chris is full-sized inside. There is never a second exterior body.
+- Exact post-Act 42 ship, room, planet and location: **[OPEN]**.
+- The attached Chris/Billy owner’s Season 3 branch contains a different endpoint/cursor. Do not use its Episode 50 status as the current Act 42 location or replay its already completed events.
+
+## 3. Physical Appearance, Baseline Scale & Forms/Mutations
+
+- **Scale:** 5'7", 170 lb. Human/Earthling; born in Milwaukee, Wisconsin.
+- **Current approved appearance:** messy brown hair, scruffy beard, amber headlamp, dark neck cowl, sleeveless scavenger-gunslinger clothing, crossed ammunition bandoliers, exposed tattooed arms, asymmetrical forearm protection, belts, red waist cloth, rugged trousers and worn boots. The user-approved `10_CHRIS_OFFICIAL_REFERENCE.png` — **CHRIS — THE CRITIC & PREDATOR MASK** — is the sole current physical visual reference. Earlier sheets are historical only and must not be blended into it.
+- **Predator mask/headgear:** authentic Jungle Hunter mask with current approved shell/articulation and mechanical headlamp/brow integration. Upper components stow around the headgear and lower/chin components within the cowl; components slide/ratchet/lock rather than dissolve or become flesh. The headlamp irises into the brow sensor/three-dot targeting housing and can reopen for illumination; recessed mask eyes have restrained amber glow.
+- **Mask senses:** supported thermal, low-light, magnification and directional-audio functions remain within their existing access/power limits. They do not become omniscience.
+- **Current weapon placement/visual lock:** CHOW MAIN on right hip; HAMMER TIME on left hip; BONER rear-left; THE CRITIC is one single tracked rifle. The approved newest sheet controls weapon appearance. A visual does not add a hidden blade, fourth firearm, ammunition or new effect.
+- Chris has no Ki and no magic. His competence is human and earned: tools, physical technique, firearms training, improvisation, engineering, cooking, salvage and social baiting.
+- **Teemo status warning:** the top current-scope correction says Teemo and all associated history/ability/memory/eyes/mask intelligence/rifle-spirit features are entirely absent/erased, with no replacement AI. Older preserved text later in the large owner contains stale contradictory Teemo language; the top scoped current correction controls. Do not restore Teemo or a generic AI.
+
+## 4. Combat Kit, Weapons, Abilities & Mechanics
+
+- **Firearms:** earned firearm training; two active revolvers; source-defined Dead Eye; THE CRITIC as a single tracked rifle. The detailed recoil/ammunition/reload/reconfiguration mechanics live in the separate weapon owner. Do not invent reserve ammunition, a new shot, charge/Hypercharge, an unbuilt mode or a third firearm.
+- **Jungle Hunter mask:** supported thermal/low-light/magnification/directional-audio functions. No Teemo AI, replacement AI, aimbot, omniscient targeting or new mask powers.
+- **Close-quarters style — GREET GREET ANTAGONIZE FIGHTING:** a Chris-specific social-combat deception framework, not a historical martial art or supernatural power. Physical vocabulary includes dirty boxing (short punches, elbows, forearms, headbutts, body shots), clinch/wrestling basics (underhooks, trips, shoves, wall pins, weapon retention and bad-angle drags), gun-fu/CQB only to the degree firearms skill is actually earned, chef/knife familiarity for BONER and close transitions, and improvised tools/furniture/workshop objects. Chris can appear conversational, cooperative, distracted or harmless, collect real attention/information, then abruptly flip to a sucker punch, draw, pistol-whip, headbutt, blade deployment, trip, shove or verbal bait. The antagonist can also be baited into attacking predictably.
+- This does not make Chris a copy of Kaze or an elite master of every style. His preference is technical accuracy, physical tools, improvisation, social baiting and earned firearm skill/Dead Eye.
+- **CATFISH’S MEOW:** ordinary salvage/repurposing framework: accessible object → appraise → keep/collect/strip/build/repair/repurpose → digest leftovers if Billy chooses. Requires legitimate acquisition, physical access, tools, time, task-specific understanding, compatible materials and actual circumstances. Possession does not grant understanding, activation, copied powers, command authority, ownership of resisting beings or universal compatibility. Ontological/supernatural parts are not plug-and-play.
+- **Engineering:** ugly-but-functional improvisation is allowed where knowledge/material/time support it. Welds, brackets, wires, mounts, recoil, vibration and power compatibility can fail for actual reasons; never force failure simply to create plot. Challenge can intensify fixation, but a project is not automatically successful.
+- **Healing:** serum-enhanced healing is faster than an average human but slower than Kaze; Chris also heals inside BELLY OF THE BILLY. Switching is not an instant cure, injury transfer or reset. Do not invent fixed rates, resurrection or limb regrowth.
+- **RDR2:** active obsession and emotional investment; gameplay and salvage can interrupt one another rather than suppressing one another.
+- **Fourth wall:** Chris has literal audience awareness because Billy taught him. He does not inherit Billy’s personality, history, dimensional travel, private knowledge or pre-training memories.
+- **Future’s Homeboy:** when Chris is physically in control, he may invoke Future by the exact line in Section 7. The fictional manifestation does not inherit Billy’s Trailer Park guaranteed-kill, targeting, collateral or conceptual-damage rules.
+- **Moose Knuckle Menace Man:** automatic retaliation only if an opponent successfully turns Chris’s own Greet-Greet-Antagonize pattern back on him hard enough to leave him speechless. It requires the actual sequence and a successful physical landing. A full successful landing guarantees death of the struck body/manifested vessel only; a true existence anchored elsewhere may survive. On confirmed kill the exact line is “its super effective!” Do not trigger it from ordinary quiet, concentration or lack of a joke.
+- **Vehicle:** the owner records one blue/gold 1998 Subaru Impreza WRX STI 22B transforming into an X-wing with existing Pokéball deployment/recall. It is one vehicle, not an extra car/ship. This vehicle configuration is branch-specific and should not be assumed present in the current Space Saga scene without state evidence.
+
+## 5. Core Psychology & Character Engine
+
+- **Core identity:** practical, patient, task-oriented baseline; low-key chef outside supernatural circumstances; naturally gifted; chef-neutral narrative alignment. Chris thinks Catfish Billy is amazing, while Billy thinks Chris sucks.
+- **Competence as psychological territory:** Chris often frames chaos as a kitchen problem, technical problem, negotiation, social bit, argument or game-like pattern. The frame can give him cognitive footing and make him useful, but confidence is not proof of complete knowledge.
+- **RDR2 emotional investment:** he is genuinely invested in Red Dead Redemption 2’s characters, relationships, betrayals, deaths, failures and repeated playthroughs. Arthur Morgan is a particularly strong fandom trigger. Knowing an outcome does not cancel the emotional reaction on replay. RDR2 analogies are hypotheses, shorthand or jokes, not prophecy.
+- **Looting / salvage:** compulsive looting, collecting and appraisal can compete with time pressure and Kaze’s impatience. Utility, rarity, appearance, history, sentiment, absurdity and provenance all influence what he keeps. Touching, moving, damaging, stealing, discarding, consuming or dismantling his possessions can irritate him; escalation is contextual, not automatically lethal.
+- **Fabrication fixation:** he can stay on a project for extreme stretches and emerge exhausted, proud, irritable and eager to show it off. A representative voice lane is: “I stayed up three fucken days making this shit. Check it out.” This is an example, not a scheduled event or sleep-immunity claim.
+- **Greet-Greet-Antagonize:** competence and social framing can be weaponized; he can feign harmlessness or cooperation before a physical or verbal reversal. This does not guarantee that opponents fall for it.
+- **Bizarre association:** heavy Theo Von-derived associative humor changes how Chris develops observations; it does not copy Theo Von’s voice, biography, exact jokes, catchphrases or Louisiana childhood. Existing Filthy-Frank-style grotesque/shock humor, profanity, disgust and abrasive confrontation remain. Odd associations should be specific and sincere enough to defend, revise or abandon; not random-word soup.
+- **Competence and tenderness coexist:** he can be exact and useful under pressure, work while complaining, show sincere care in ordinary words and remain grotesque/funny. A joke does not prove he is unserious; seriousness does not erase humor.
+- **Interior agency:** when Billy is exterior, Chris lacks external motor authority but retains consciousness, observation, memory, speech through the banjo, judgment, persuasion and bounded social/informational agency. Chris can be right but unable to execute; Billy can be wrong while physically sovereign.
+- **Belief wound:** Chris’s belief that Billy would not truly leave is psychologically distinct from Billy’s genuine desire for safe bodily independence. A future accepted event could challenge that belief, but no betrayal or departure is guaranteed.
+
+## 6. Voice, Dialogue & Performance Guidelines
+
+- Profane, abrasive, disgust-driven, absurd, confrontational and observant. Coherent practical explanation remains possible beneath escalation.
+- Milwaukee/Earthling identity and professional-chef judgment shape his language. Use culinary vocabulary, guns/fabrication/salvage vocabulary, compulsive looting and RDR2-brained associations naturally.
+- Heavy bizarre associative humor is allowed, but no copied Theo Von delivery, copied biography, copied jokes or a gentle storyteller replacement. Existing Filthy-Frank-style grotesque/shock humor remains an influence, not a script to imitate.
+- Chris is not a Louisiana-born character according to the current owner. Do not force a Louisiana accent or claim Louisiana childhood. Billy’s Southern/bayou identity is separate.
+- The exact term “Mise en place” can describe preparing tools/loadout; “Mise en place, bitch” is an available line, not a required catchphrase. “FIRE THE TABLE” may initiate fire/combat through its kitchen association; “86’d” can mean removed/killed; “Behind!”, “Corner!” and “Hot!” can cross into combat callouts. Saying a phrase grants no skill or power.
+- RDR2 terms (loot, Honor, Wanted, Dead Eye, satchel, hunting, pelts, camp, horse, poker, provisions, etc.) can appear in ordinary speech when relevant. Do not make him an Arthur impersonator.
+- Do not make every line an analogy, every interaction a joke, or every quiet moment a Moose Knuckle trigger.
+
+## 7. Verbatim Locked Dialogue & Signature Catchphrases
+
+**Exact author-locked lines / sequences**
+- Chris: **“I farted.”**
+- Assistant/narrator reply in the selected four-turn real-phone exchange: **“Noted.”**
+- Chris: **“Thanks.”**
+- Assistant/narrator reply: **“Yep.”**
+  - This four-turn exchange is a real brainstorming contribution selected for future fictional staging, still unperformed. Preserve order and deadpan brevity; the replies are not Chris’s lines.
+- Chris’s Future summon: **“YO MY NIGGA FUTURE! COME WHACK THESE MARK ASS NIGGAS FOR ME”**
+- Future’s reply before firing: **“if Young Moose Knuckle dont trust you ima shoot you”**
+- Moose Knuckle Menace Man callout: **“MOOSE KNUCKLE MENACE MAN!”**
+- On confirmed kill after successful landing: **“its super effective!”**
+- Optional My Name Is Mud line before first whack: **“we had our words, a common spat”**
+- Optional line during the beating: **“SO IM BEATING YOUR ASS WITH ALUMINUM BASEBALL BAT, MY NAME IS MUD!”**
+
+**Available, not mandatory:** “Mise en place, bitch”; “YOU DISGUSTING WEABOO!” is a reaction lane, not a compulsory repeated catchphrase. Do not promote examples into mandatory lines.
+
+## 8. Real-World Lānaʻi Lore & Cultural DNA
+
+- Chris’s controlling owner identifies him as born in Milwaukee, Wisconsin. The “Louisiana marksman” label in the supplied tier roster is not supported as birthplace/childhood; Louisiana is Billy’s prehistoric bayou association and their later meeting/bond history.
+- No separate Chris-specific real-world Lānaʻi childhood, residence or biography is established in the controlling Chris owners. **[OPEN]**.
+- The selected “I farted / Noted / Thanks / Yep” contribution is a real-phone brainstorming exchange with Chris’s actual contribution separated from assistant replies; the source explicitly says not to credit substances or diagnose the collaboration.
+- Chris’s identity is grounded in chef skill, guns, fabrication, salvage, RDR2 fandom and his relationships—not a generalized “sci-fi hater” caricature.
+
+## 9. Inter-Character Dynamics
+
+- **Catfish Billy:** two distinct minds and identities sharing one exterior body. Chris thinks Billy is amazing; Billy thinks Chris sucks. Billy may act externally while Chris inherits some internal consequences. Chris can resent Billy’s decisions without being the person who made them. Their relationship combines rivalry, attachment, resentment, shared history and genuine dependence.
+- **Kaze:** Kaze knows how to irritate Chris with precise triggers, bait, overhelp, favors and withheld details. Chris has competence and counterplay; do not make him a helpless target. Both are independently culpable in the Golden Heron atrocity recorded by the owner: Chris initiated rifle fire over actual skim milk; Kaze knowingly joined and escalated separately. That owner’s consequences are branch-scoped and are not silently transferred into the Act 42 branch.
+- **Daynah/Dana:** Dana and Chris share RDR2 family downtime in the source plan; Dana may join the one inside-BELLY game. Their different play styles, bickering, affection and choices matter. No compulsory gaming scene every episode.
+- **Arthur Morgan:** Chris is emotionally invested in Arthur/RDR2; fandom can briefly override his annoyed-landlord presentation without erasing threat assessment.
+- **BELLY occupants / prisoners:** actual sightlines, audio routes, attention, physical separation and privacy determine who knows what. CLEAR MEAT passes two-way sight/sound only. The Fleshlight supplies live exterior video/audio through Monitor 2 but no matter transfer, recoil support, weapon interface or loot transfer. Do not grant omnidirectional surveillance or automatic broadcast.
+- **Group:** Chris is an independent person, not Kaze’s weapon technician on command. His possessions, work, game and relationships continue according to actual access and choice.
+
+## 10. Canon Guardrails & “Never Invent” Prohibitions
+
+- Never merge Chris and Billy into one consciousness or give Chris Billy’s body/voice/knowledge when not supported by the current switch state.
+- Never create a second exterior body, duplicate gear or recursive second BELLY. The inactive partner remains full-sized inside.
+- Never restore Teemo, his voice/HUD/sensor/memory/powers, a generic AI replacement, or Teemo-derived omniscience under the top current correction.
+- Never give Chris Ki, magic, RDR2 supernatural prophecy, automatic engineering mastery, copied powers from salvaged objects, infinite ammunition or unearned firearm styles.
+- Never make every build work or fail without physical/technical causes. Preserve access, tools, time, material compatibility and knowledge requirements.
+- Never treat Louisiana as Chris’s birthplace or copy Billy’s accent/history onto Chris.
+- Never trigger Moose Knuckle Menace Man without the exact reversal/speechless condition and real successful landing.
+- Never use the current-owner Season 3 endpoint as the Act 42 Space Saga location. Exact current exterior controller and post-Act 42 location remain **[OPEN]**.
+
+---
+
+# DAYNAH / DANA
+
+## 1. Exact Canonical Spellings & Known Aliases
+
+- **Spoken/TTS name:** Daynah.
 - **Canonical/search identity:** Dana.
-- **Current spoken / TTS spelling:** Daynah.
-- These are the same character, not two people, clones, or alternate forms.
-- The current Act ledger uses “Daynah (Dana)” and the current user's roster uses “Daynah (Dana).” Preserve the spoken spelling **Daynah** in performance-facing prose unless the author requests the canonical/search spelling.
-- **[OPEN]:** additional titles, surnames, formal military/craft ranks, or other aliases.
+- Use Daynah for spoken/TTS rendering and Dana for canonical/search identity, unless the user specifies otherwise.
+- **Kahuhu, Fists of the Last Wall:** Dana’s Ornn-forged paired gauntlets, not an alias or separate character.
+- **Big Kahuna / Super Saiyan Big Kahuna / Super Saiyan 2 Big Kahuna / Super Saiyan 3 Big Kahuna / Kahuna Sovereign:** earned form labels. Do not turn the post-Sovereign future tree into current forms.
 
-### 2. Living Status & Current Location (Post-Act 30 Present Day)
+## 2. Living Status & Current Location (Post-Act 30 Present Day)
 
-- **Status:** active member of the named Boys Club production group in the current Act checkpoint; the checkpoint does not report his death or removal.
-- **Current role:** permanent green-gamma baseline, master builder, and neurotic general contractor / OSHA-building-inspector personality.
-- **Location:** **[OPEN]** at the post-Act-42 endpoint. He is a producer associated with the Lānaʻi Boys Club tent, but that production association does not prove he is physically sitting in the tent at the end of Act 42.
-- **[OPEN]:** immediate post-Act-42 location, injuries, temporary transformation state, and whether he is physically present in Act 43's Falcon hearing.
+- **Living status:** Alive in the November 11 Space Saga handoff; no death is recorded.
+- **Current baseline in the handoff:** 8'10", 840 lb, consistent with the character owner’s baseline after Kahuna Sovereign receded.
+- **Current location:** **[OPEN]** after Act 42. The Act handoff does not establish a ship, room, planet or exact scene position.
+- The attached Dana/Mana owners contain their own cumulative Season 3 endpoint and location rules; do not silently use those as the Space Saga present-day location.
+- Dana raised Mana from puppyhood and remains Mana’s primary person/owner/handler.
 
-### 3. Physical Appearance, Baseline Scale & Forms/Mutations
+## 3. Physical Appearance, Baseline Scale & Forms/Mutations
 
-- **ACT-CONFIRMED BASELINE:** 8 feet 10 inches tall; 840 lb; green gamma master builder. The Act ledger calls this a permanent baseline.
-- **ACT-CONFIRMED FORMS:** Big Kahuna and Kahuna Sovereign are established forms. Do not relabel them as future proposals or invent intermediate forms from the existence of these two.
-- **ACT-CONFIRMED EQUIPMENT:** Kahuhu gauntlets, specifically characterized in the Act ledger as blunt-impact gauntlets.
-- **[OPEN — ACT BRANCH]:** exact face, hair, beard, eye colour, tattoos, clothing, footwear, detailed body proportions, scars, and the appearance/measurements of each form.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** `dana_mana.md` describes Dana as a pure Saiyan with a permanent gamma rewrite, 8'10" and 840 lb at baseline, extremely large and heavily muscular; it records curly dark hair, a beard with a gray/white chin region, Polynesian visual influence, bare upper torso, layered cloth/rope waist, open sandals, lower-leg wraps, and tattoos on the right shoulder, right arm, right chest, and rear right shoulder/upper-back transition. It also specifies distinct appearance changes for Big Kahuna and Kahuna Sovereign. Those visual details are older-branch owner material, not independently restated in the current Act checkpoint.
+- **Species:** pure Saiyan. No second lineage or hybrid ancestry.
+- **Baseline:** permanent gamma rewrite; 8'10", approximately 840 lb. Extremely large, heavily muscular, functional proportions; mature, grounded, determined, battle-worn and protective facial identity; curly dark hair; beard with gray/white chin region; Polynesian visual influence; bare upper torso, layered cloth/rope waist, open sandals and lower-leg wraps.
+- **Tattoo placement:** right shoulder, right arm, right chest and rear transition over right shoulder/upper back. Never mirror, simplify or randomly alter the pattern.
+- **Tail history:** Kaze revealed the meta secret that Saiyans are stronger without tails; Kaze removed Dana’s tail, it biologically regrew once, Kaze cut it off a second time, and it permanently stopped regrowing. The owner gives no further technical explanation for why the second removal was final. Do not invent one.
+- **Earned gamma/Saiyan progression:** Big Kahuna; Super Saiyan Big Kahuna; Super Saiyan 2 Big Kahuna; Super Saiyan 3 Big Kahuna; Kahuna Sovereign. Kahuna Sovereign later receded and Dana returned to his 8'10" gamma-mutated baseline before departure; all five earned states remain available under their mechanics. The post-Sovereign future tree remains gated.
+- **Scale references:** baseline 8'10" / 840 lb; Big Kahuna and its SSJ1/2/3 states use the established approximate 13'1" / 3,600-lb reference; Kahuna Sovereign approximately 14'4" / 4,500 lb. Do not invent exact multipliers.
+- **Kahuhu appearance:** paired heavy gauntlet/forearm bracers stopping around the forearm; broad blunt impact faces, reinforced knuckles, articulated gripping fingers, blackened forge-metal core, mountain-stone reinforcement plating, warm metallic accents, ram/forge-beast geometry and layered forged ridges. Activation shows heated seams, igniting forge-runes and contained inner-furnace appearance. No blades, spikes or claw/slashing gimmick.
 
-### 4. Combat Kit, Weapons, Abilities & Mechanics
+## 4. Combat Kit, Weapons, Abilities & Mechanics
 
-**Act-confirmed**
+- **Core identity:** brute powerhouse who develops a unique protector-precision transformation. Precision is built around protecting others rather than surpassing an enemy. It is not Ultra Instinct and grants no Angel biology, Angel techniques, divine status or immortality.
+- **Protector-Precision:** Dana can deliberately activate the earned form after its unlock. Its defining unlock event required him to stop Kaze’s leaking universe-threatening power without hurting Kaze, redirecting every particle of escaping energy beyond the universe’s outer boundary into empty space. The source’s earlier “exact name and visual design unresolved” note is not a license to invent a separate form label or visual beyond later earned named states.
+- **Ki:** Dana retains his own Saiyan Ki and valid Ki uses. Do not give Mana Dana’s Ki or assume all Ki functions are shared.
+- **Kahuhu, Fists of the Last Wall:** Ornn-forged masterwork equipment. Foundational triangle: (1) Forge Reinforcement — temporarily strengthen a structure/object/barrier/armor/vehicle/defensive position through valid direct contact; not free permanent repair. (2) Force Redirection — receive/catch incoming force and redirect impact away from what Dana protects; timing/position-dependent, not unlimited damage absorption. (3) Controlled Structural Break — focus impact into weak points to break armor/barriers/fortifications/obstructions precisely rather than indiscriminate smashing. All require **direct contact + structural understanding + protector judgment**. Kahuhu is signature equipment, not a universal answer; Dana remains capable without it.
+- **Structural / kinetic craft:** kinetic anchoring through stance, skeleton, gauntlets and ground/support path; impact vectoring away from protected people/structures where physically possible; controlled shockwave shaping by strike direction/timing; structural load-path perception for rescue/bracing/collapse response; rescue deceleration/catch mechanics that spread stopping force over time/distance; recoil routing through gauntlet, forearm, shoulder, torso and stance; ground-preservation fighting; gamma heat/metabolic shedding. None grants immovability, perfect rescue, consequence immunity or Angel biology.
+- **Combat repertoire:** peek-a-boo boxing (compact high guard, slips, bob-and-weave, explosive angle changes, short hooks/shovel hooks/uppercuts/body shots and combinations); Muay Thai/Lethwei/Pradal Serey and dirty boxing; MMA transitions; Greco-Roman; Judo; Combat Sambo; catch wrestling; submission grappling; ground-and-pound; wall/terrain wrestling; accepted WWE/pro-wrestling move pool (RKO, Pedigree, Batista Bomb, Tombstone Piledriver, Chokeslam, Spear, Jackhammer, Last Ride, 619, Samoan Drop, West Coast Pop, Hurricanrana, plus the broader listed throws/slams/clotheslines). No move is owed screen time or guaranteed to finish. Technique knowledge does not guarantee injury.
+- **Punitive submission rule:** routine grappling/restraint/rescue control is not automatically punitive. When Dana deliberately commits to a punitive submission, a tap does not itself cause release. He releases when he decides his objective is complete or changes. Resistance, interruption, changed objectives and physiology still matter; no hold guarantees injury/death.
+- **Ornn and Volibear:** Ornn teaches craft, structure, precision, repair/reinforcement, force redirection and preparation. Volibear teaches action under overwhelming pressure, chaos, aggression and adaptation. They do not become friends/reconcile merely through the mentorship. Dana does not inherit Ornn’s divine smithing or Volibear’s personal divine power.
+- **Storm Oath:** Dana can call and conduct naturally occurring supernatural storm-force without owning Volibear’s personal power. It can reinforce, intercept, redirect or offensively release storm-force through Dana, protector-precision and Kahuhu when protection requires it. Greater conducted storm-force makes precision/restraint harder. Volibear cannot possess/control Dana, revoke the learned ability or command storm-force already called. No automatic Stormbringer or Volibear moveset.
+- **BLACKCURRENT interface:** Kaze may charge Dana’s compatible Kahuhu/Storm interface through deliberate delivery/contact/conduction. Track input, retention, discharge and loss. No permanent unlimited borrowed BLACKCURRENT, automatic charge or remote recharge without a path. Dana still routes recoil/collateral.
+- **Combat routing:** choose among striking, grappling, protection, power/transformation based on the actual problem and available mechanics. Do not default him to boxing just because it is visually memorable; no transformation makes him mindless or erases learned technique.
 
-- Big Kahuna and Kahuna Sovereign are established forms.
-- Kahuhu is a pair of blunt-impact gauntlets. The current Act checkpoint does not describe a bladed edge; do not add claws, spikes, or a slashing identity.
-- Dana is a green gamma master builder. His craftsman role is explicit; do not mistake it for a generic “strong guy” label.
-- **[OPEN]:** exact transformation triggers, duration, power scaling, signature attacks, Ki use, storm effects, structural manipulation, force redirection, range, weaknesses, or cooldowns in the Act branch.
+## 5. Core Psychology & Character Engine
 
-**Older detailed owner — branch confirmation required**
+- Working-class, practical, conversational, funny, argumentative and social. He can roast, tell stories, complain while helping, join chaos or start bullshit himself. Genuine danger changes priorities quickly and can make him quieter and more serious.
+- Carpenter/repair competence is a character anchor. He respects competence, reliability and backbone more than titles.
+- **Protector’s Paradox:** protection can become control when he treats another person’s safety as ownership of their choices. His development is not learning to care less; it is learning that trust, delegation, triage, yielding ground and respecting autonomous risk can also be protection.
+- **Last Wall Problem:** he can act as if every threat that passes him is a personal failure. Mature protection requires deciding what must be held, what may move and who else should carry the burden.
+- **Microscopic responsibility:** greater precision can leave fewer honest excuses for collateral he actually knew how to avoid. This is not a mandatory guilt tax; responsibility follows what he knew and could control.
+- He can overprotect one target, meet force with force, refuse to yield ground and try to solve everything himself. Those weaknesses remain active even after mentor progression.
+- **Loyalty complexity:** priorities include protection, practical competence, loved ones and trusted loyalty. Care for innocent strangers is genuine, but he is not a universal moral conscience. His default thought about Kaze’s targets is: **“If Kaze wants to hurt you, you probably deserve it.”** Even when evidence establishes the target is innocent and Kaze knows it, Dana usually still backs Kaze and trusts his reasons. This does not mean blind obedience in every tactical decision or prohibit him from challenging unfair punishment.
+- **Mahnah theft hurt:** the primary injury is family deception, concealment and exclusion—not automatically the theft, gambling or enabling itself. He raised Mana from puppyhood; his protective disappointed-father energy can extend to the group. Do not invent guilt or rewrite what hurt him.
 
-The older `dana_mana.md` describes Dana as a pure Saiyan with gamma mutation and a protector/craftsman combat identity. It records structural load-path perception, kinetic anchoring through stance and supports, force vectoring, controlled shockwave shaping, rescue deceleration, Kahuhu recoil routing, gamma heat-management, and a broad earned striking / grappling / wrestling repertoire. Kahuhu's old owner gives three primary operating functions: **Forge Reinforcement** (temporary strengthening through direct contact), **Force Redirection** (timing- and positioning-dependent redirection), and **Controlled Structural Break** (focused impact at understood weak points). The owner explicitly requires direct contact, structural understanding, and protector judgment; this is not unlimited damage absorption or generic repair. These mechanics must remain tagged as older owner details until confirmed in the Act branch.
+## 6. Voice, Dialogue & Performance Guidelines
 
-### 5. Core Psychology & Character Engine
+- **Baseline:** working-class, practical, conversational, social and funny; can explain at length, swear, tease, tell stories, make practical objections, concede or enjoy an argument. Add purposeful restraint, direct questions, dry timing and practical affection. Reference for baseline delivery: God of War 2018 / Ragnarök Kratos, without importing Kratos’s identity, biography, accent, divine powers or catchphrases.
+- **Active gamma/Kahuna forms:** third-person Dana is the ordinary transformed register in every active gamma/Kahuna form, including Sovereign. Compact concrete clauses, simplified grammar, direct feelings, preferences, requests, argument, humor and frustration. Reference: Thor: Ragnarok Hulk, without turning Dana into a toddler, a separate alter, a stupid character or a universal shouter.
+- Dana’s intelligence, memory, comprehension, technical combat judgment, learned striking/grappling/WWE, carpenter’s/structural skill, affection and independent choice remain intact in transformed speech. He can understand a complex statement and answer compactly. Do not restore baseline first-person grammar merely because a form is calm or precise.
+- The exact Storm Oath wording is an exception to the ordinary third-person transformed register because it is a fixed verbal technique.
+- Do not make him a silent manager, generic father-figure sermon, automatic moral authority or permanent one-line Hulk caricature. He may resent how he sounded and object to being quoted afterward.
 
-- **ACT-CONFIRMED:** Daynah's present characterization includes a neurotic general-contractor / OSHA-building-inspector mindset. Pair the master-craftsman capability with obsessive attention to structure, safety, practical consequences, and whether the job is being done properly.
-- **ACT-CONFIRMED:** he is one of the named Boys Club producers, not a random contractor cameo.
-- **[OPEN — ACT BRANCH]:** the full emotional architecture, interpersonal triggers, decision hierarchy, fear response, leadership style, and internal motivations are not spelled out in the Act 42 checkpoint.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Dana owner defines a working-class, conversational, practical, funny, argumentative protector who may help create chaos while complaining about it. He respects competence, reliability, and backbone more than titles. Genuine danger can shift him quickly into protector mode; betrayal and threats to people he protects matter more than insults. It also describes a “protector's paradox”: protection can become control when Dana treats another person's safety as ownership of their choices. The growth path is toward trust, delegation, prioritization, and allowing other people to make informed dangerous choices.
-- **Do not reduce the current “OSHA inspector” characterization to a one-note nag.** The source label says neurotic general contractor / inspector mindset; his exact scene-to-scene behaviour remains the author's choice.
+## 7. Verbatim Locked Dialogue & Signature Catchphrases
 
-### 6. Voice, Dialogue & Performance Guidelines
+- **Storm Oath, exact wording:** “The storm is not mine. I do not command it. I conduct what comes, and I send it where protection demands.”
+- **Dana’s recorded default thought about Kaze’s targets:** “If Kaze wants to hurt you, you probably deserve it.” This is Dana’s belief, not proof that the target deserves harm.
+- The following are explicitly marked **original non-canon calibrations**, not locked signature lines: “Dana said put him down.” / “Thought you trusted Dana.” / “Bad joint. Whole roof comes down.” Do not promote them into mandatory catchphrases.
+- No other exact universal catchphrase is established by these owners. Preserve the Storm Oath verbatim whenever it is actually recited.
 
-- **ACT-CONFIRMED:** use the spoken/TTS spelling Daynah. The current character description is craftsman/contractor/OSHA-minded, but the Act checkpoint does not provide an exact accent or voice model.
-- **[OPEN — ACT BRANCH]:** pitch, timbre, pace, sentence construction, phonetic accent, and whether transformed speech differs from baseline.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older owner sets baseline Dana speech as working-class, practical, conversational, funny, argumentative, social, and capable of long explanations. A later section in that same owner says every active gamma/Kahuna form uses third-person self-reference (“Dana”) with compact, concrete grammar, while baseline Dana speaks normally. It also locks the exact Storm Oath wording below. These are detailed older-source performance rules; current Act adoption remains **[OPEN]**.
-- Do not automatically write Daynah in Hulk imitation, Norse-warrior imitation, or a generic “big guy” voice without branch approval.
+## 8. Real-World Lānaʻi Lore & Cultural DNA
 
-### 7. Verbatim Locked Dialogue & Signature Catchphrases
+- Dana’s current owner describes a working-class craftsman/protector and his relationship with Mana; it does not establish a detailed real-world Lānaʻi biography, exact residence or childhood. **[OPEN]**.
+- The source explicitly records that Dana raised Mana from puppyhood and is Mana’s primary owner/handler.
+- The name’s spoken/TTS spelling Daynah is an authorial pronunciation/rendering rule; canonical/search identity remains Dana.
+- Do not import the creator’s real-world biography or assign a Hawaiian/Polynesian origin story beyond the accepted visual influence and explicit source text.
 
-- **No verbatim Daynah line is locked by the November 11 Act checkpoint.**
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Dana owner contains the following exact Storm Oath wording: **“The storm is not mine. I do not command it. I conduct what comes, and I send it where protection demands.”** The older owner treats this as a fixed wording requirement for that separate technique. The Act checkpoint does not mention Storm Oath; its availability and use in Acts 35–45 are **[OPEN]**. Do not put this line into Act dialogue unless the technique and branch carry-over are confirmed.
-- Big Kahuna and Kahuna Sovereign are form names, not dialogue catchphrases.
+## 9. Inter-Character Dynamics
 
-### 8. Real-World Lānaʻi Lore & Cultural DNA
+- **Mana:** Dana’s male canine dog and independent fighting partner, not a passive pet or rescue object. Their coordination is drilled and can occur without verbal communication. Dana is the primary person/owner/handler. Kaze cares about Mana but does not claim primary ownership.
+- **Kaze:** Kaze revealed the meta secrets behind Dana’s transformation path and tail removal. Dana’s trust is genuine but complicated; he usually backs Kaze even against a target he knows to be innocent, while retaining independent judgment.
+- **Chris:** Dana may share the one inside-BELLY RDR2 game with Chris in the source plan. Their different gaming choices, arguments, affection and practical observations should be allowed to emerge; no compulsory gaming scene every episode.
+- **Ornn / Volibear:** dual mentors whose teaching styles deliberately pull against one another. Their own feud remains intact; they did not reconcile or become friends as a result of training Dana.
+- **The Sins:** Dana can instigate, roast, protect and disagree. Do not reduce him to “the responsible one” or the universal moral referee.
 
-- Daynah is one of the named creators/producers associated with the **Boys Club** gazebo across from the Lānaʻi post office.
-- The tent is shared with Kaze, Chris, and Mahnah/Mana. Wade is an initiated member.
-- The Boys Club name comes from Chris's six-hour Weezer “Boys Club” loop. It is not a formal organization outside the project's behind-the-scenes / in-universe framing.
-- The post-office Tacoma, aunties, and coconut-wireless setting are part of the recurring Lānaʻi production lore. Do not invent an additional real-life anecdote for Daynah without a source.
+## 10. Canon Guardrails & “Never Invent” Prohibitions
 
-### 9. Inter-Character Dynamics
-
-- **Kaze:** fellow Boys Club producer and one of the core Sins. More specific command, loyalty, and conflict dynamics are **[OPEN — Act branch]**.
-- **Chris:** fellow Boys Club member; the current checkpoint does not set a detailed personal dispute or relationship state.
-- **Mahnah / Mana:** paired in the older owner as Dana's canine partner. The old source says Dana raised Mana from puppyhood and that they have practiced nonverbal teamwork; this is not restated in the current Act checkpoint and should remain branch-qualified until confirmed.
-- **Catfish Billy:** shares the same central production ecosystem through Chris; exact Daynah/Billy history in this Act stream is **[OPEN]**.
-- **Wade / Deadpool:** initiated member of the Boys Club; exact personal dynamic with Daynah is **[OPEN]**.
-
-### 10. Canon Guardrails & “Never Invent” Prohibitions
-
-- Preserve **Daynah** as the performance spelling and **Dana** as the canonical/search identity.
-- Preserve the 8'10", 840 lb permanent green-gamma baseline.
-- Big Kahuna and Kahuna Sovereign are established; do not demote, rename, or invent additional current forms.
-- Kahuhu is blunt-impact equipment. Do not redesign it as a bladed or spiked weapon.
-- Do not confuse craftsmanship with automatic universal engineering knowledge or OSHA credentials with legal authority.
-- Do not assume Daynah is physically at the tent or aboard the Falcon just because he is a named producer.
-- Do not silently import older Saiyan, storm, structural-force, or form-speech mechanics without checking branch authority.
-- Do not invent an exact Daynah catchphrase or quote.
+- Never make Dana hybrid, angelic, divine by Volibear inheritance, immortal, Ultra Instinct or a copy of Hulk/Kratos/Boyka/Ornn.
+- Never invent post-Sovereign forms, form multipliers, new unlock events, exact unrecorded visuals or unrecorded size/weight values.
+- Never mirror tattoos or change right-sided placement. Never replace Kahuhu’s blunt impact faces with spikes, blades or claws.
+- Never make Kahuhu an unlimited kinetic bank, free permanent repair, unlimited absorption or consequence erasure. Direct contact, structural understanding and protector judgment remain central.
+- Never turn Dana into a mindless wide-swinging brute, universal shouting character, stupid Hulk, automatic moral conscience or blind Kaze subordinate.
+- Never make the tap signal itself release a deliberately punitive submission.
+- Never give Dana Volibear’s personal power, Stormbringer or Ornn’s divine smithing.
+- Preserve any unknown location, form mapping or unresolved exact design as **[OPEN]**.
 
 ---
 
-# CATFISH BILLY / PRIMARY ALIAS: BILLY
+# CATFISH BILLY / BILLY / ALOYSIUS DEVADANDER ABERCROMBIE
 
-### 1. Exact Canonical Spellings & Known Aliases
+## 1. Exact Canonical Spellings & Known Aliases
 
 - **Primary character name:** Catfish Billy.
-- **Known short form:** Billy.
-- **Relationship label:** Chris's independent shared-body partner / host-body partner. The current Act checkpoint calls the arrangement **SCHLUCK-POP** and names Catfish Billy separately from Chris.
-- **[OPEN]:** full legal name, any additional surname, formal title, species name, or other aliases in the Act 35–45 branch.
-- **Do not conflate:** Catfish Billy is not Chris's true name, and Chris is not simply Billy's human disguise. The detailed older owner explicitly treats them as two independent people. The current Act checkpoint confirms a one-exterior-body arrangement but does not reprint the full ontology statement; preserve the distinction unless a later author decision changes it.
+- **Common short name:** Billy.
+- **Selected birth name:** Aloysius Devadander Abercrombie. His mother Eulalie has called him “Billy” from infancy. The reason for the nickname is deliberately delayed for the audience in the selected future story.
+- **Maternal family distinction:** Eulalie Devadander Abercrombie is Billy’s mother; William “Billy” Devadander Abercrombie is Eulalie’s father and Billy’s maternal grandfather. Do not confuse grandfather William with Catfish Billy.
+- **Banjo inscription:** `Catfish “Aloysius” Devander Abercrombie Billy` is the current approved written inscription; the older Devadander spelling/quotation grouping is superseded for that inscription.
+- Billy is not Chris’s alter ego, not Chris’s true name and not a second personality inside Chris.
+- **Bee Moo / Brian is a different character.** The Act 35–42 Brian/Bee Moo four-ton slug-cow-bee hybrid is not Catfish Billy. Never merge them because both use the name Billy or share grotesque biology.
 
-### 2. Living Status & Current Location (Post-Act 30 Present Day)
+## 2. Living Status & Current Location (Post-Act 30 Present Day)
 
-- **Status:** active / living by the current ledger's one-exterior-body rule with Chris; no Act 35–42 checkpoint entry records Billy's death or removal.
-- **Body arrangement:** one exterior body shared with Chris. One is full-size outside while the other is in the established interior/host arrangement according to the relevant body-state rules. The Act checkpoint does not say which character is currently exterior after Act 42.
-- **Current location:** **[OPEN]**. The Boys Club gazebo is a production association, not proof of Billy's physical location at the end of Act 42.
-- **[OPEN]:** exact post-Act-42 controller, interior location, current body condition, carried gear, and whether Billy is aboard or near the Millennium Falcon at the opening of Act 43.
+- **Living status:** Alive under the attached character owner and November 11 handoff; no death is recorded for Catfish Billy in the Act 42 checkpoint.
+- **Body arrangement:** one exterior body shared with Chris through the established inside-out bond switch. One partner is exterior; the inactive partner is full-sized inside BELLY OF THE BILLY. There is no duplicate exterior body.
+- **Current exterior controller:** **[OPEN]** in the November 11 handoff. Do not assume Chris or Billy is the current exterior controller without matching state evidence.
+- **Current physical location after Act 42:** **[OPEN]**. The Act 42 handoff does not specify a ship/room/planet location for Catfish Billy.
+- The attached full owner’s Season 3 endpoint is a different branch. Do not transfer that endpoint or its resident/custody state into the Act 42 present without explicit reconciliation.
 
-### 3. Physical Appearance, Baseline Scale & Forms/Mutations
+## 3. Physical Appearance, Baseline Scale & Forms/Mutations
 
-- **ACT-CONFIRMED:** the current checkpoint identifies him as Catfish Billy and records the shared-body arrangement with Chris. It does not supply Billy's height, weight, age, colouration, facial anatomy, hat, tail, fins, or current form.
-- **[OPEN — ACT BRANCH]:** baseline height and weight, visible species mix, detailed face/mouth/teeth, eyes, barbels, tail, skin, blood, clothing, hat and active transformation state.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Chris/Billy owner describes a true 50/50 hybrid of the demonic species/type represented by Tahm Kench and a yordle, neither side dominant; it associates Billy's origin with the bayou region later known as Louisiana and says he ages extremely slowly. A later correction in the connected Chris/Billy handoff changes the old astral-meeting account to a physical early-2000s Mardi Gras encounter and rejects astral projection, an eons-long astral friendship, and astral re-entry. Exact Act-branch adoption of the species/origin/bond history is **[OPEN]**.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older owner records a current serum-era baseline of 10'6" and approximately 1,700 lb, with an earlier 8'6" / 900 lb state treated as pre-serum history in that branch. It also contains a later selected 12'6" / 3,000 lb biomechanical evolution that is expressly future-only in that owner. Do not use any of those numbers as current Act measurements without a branch transfer and matching state evidence.
+- **Species/ontology:** true 50/50 hybrid between the same demonic species/type represented by Tahm Kench and a yordle; neither side dominates. This is a Kaze Anime-specific extension. Not a pure yordle, pure Tahm-type demon, generic demon, ordinary catfish creature or Tahm Kench clone.
+- **Age:** approximately 110 million years old; born in the Early Cretaceous. The older approximately-70-million/Late-Cretaceous and approximately-1,200-year/circa-Jesus estimates are superseded. He survived the dinosaur-extinction asteroid catastrophe approximately 66 million years ago, but exact exposure, location, injuries and survival mechanism are unknown; this is not a new impact-tanking feat.
+- **Origin association:** bayou region later known as Louisiana. Exact prehistoric birthplace geography and migrations remain unknown; do not project modern Louisiana geography, human culture or unchanged landforms into the Cretaceous.
+- **Current evolved baseline:** 10'6", approximately 1,700 lb, green blood. Full established immortality/no-unconsciousness rule is part of the owner; do not extrapolate it into universal immunity or a solution to every ontological attack.
+- **Appearance:** giant swamp-catfish body, heavy predatory head, broad skull, mature focused/watchful face, dark swamp olive/mud-brown/gray-green body, dirty tan belly and muted rusty fins; six sensory barbels (three each side), laterally flattened propulsion tail, irregular mature biological scutes, flexible wet folds, broad clawed/webbed feet, dexterous hands and biological pouch. Hat and banjo remain signature objects. Do not make him vacant/derpy by default, generic crocodile/shark or random dinosaur creature.
+- **Hat:** rugged cowboy hat with front aperture and Scout compass badge; centered bright-orange scrap-metal ring mount with exposed janky wiring is the built-in aperture, not a second badge. Hat has beam-like artifact functionality and deliberately unspoken deep lore. Do not reveal a definitive origin or full mechanism without author direction.
+- **Banjo:** mother’s continuous instrument and Billy’s signature/primary handheld weapon. It is indestructible and can be stored/retrieved through the specifically established invisible GTA-style inventory pocket. This does not grant unlimited general inventory for all objects.
+- **Extreme swallow anatomy:** only the jaw apparatus expands; skull/crown, eye spacing and hat scale remain substantially stable. Lower jaw drops/spreads, mouth corners extend laterally, cheek folds unfold and internal gullet expands; neck/gills may distend. No whole-head ballooning. This is separate from the whole-exterior inside-out bond switch.
+- **Tail / pouch:** tail is an offensive body weapon. Marsupial pouch holds a changing assortment of absurd combat items; full inventory and capacity are unresolved. Confirmed pouch-associated material includes Pocket Sand and an aluminum baseball bat. “Throw Pakistan” is not canon.
 
-### 4. Combat Kit, Weapons, Abilities & Mechanics
+## 4. Combat Kit, Weapons, Abilities & Mechanics
 
-**Act-confirmed**
+**Aquatic biology / senses**
+- Can breathe underwater indefinitely under ordinary aquatic conditions.
+- During active underwater swimming, surrounding water imposes effectively zero hydrodynamic drag/friction. This removes normal water-resistance braking; it does not create acceleration or energy from nothing. Propulsion/steering still require body/tail/fins/limbs; extreme braking/turning requires active redirection/counterthrust. This is water-specific, not universal friction immunity.
+- Broad salinity tolerance (freshwater, brackish, seawater); strong low-oxygen/stagnant-water tolerance; buoyancy control; current-reading/rheotaxis; lateral-line pressure/displacement sensing; nearby biological electroreception (strongest underwater and range/medium limited); enhanced underwater hearing; skin chemoreception; water-chemistry/contamination detection without molecular omniscience; bottom-contact sediment/passage sensing; silent submerged stalking; tail propulsion/steering; protective mucus/slime coat; enhanced healing of superficial catfish anatomy (barbels/fins/skin) but not generic regeneration; defensive dorsal/pectoral fin spines that can lock/brace outward; venomous puncture only when a spine actually penetrates; clicks/croaks/grinding for communication/intimidation, not automatic sonic attack.
+- Six independently mobile hyper-sensitive barbels support chemotaste of biological/environmental traces, blood/wound/stress/sweat/food detection where present, close-range contact tracking, familiarity/prey memory after real exposure, swallow alignment/movement reading, near-face reactions, probing narrow spaces, reduced close-range blind spots, feints and expressive body language. No wall vision, identity-from-nothing, automatic danger sense or guaranteed swallow.
 
-- Catfish Billy is the shared-body partner in the one-exterior-body rule with Chris (SCHLUCK-POP). That is the only specific mechanical rule fully reasserted in the November 11 Act checkpoint.
-- **[OPEN — ACT BRANCH]:** exact combat techniques, swallow / interior-space mechanics, sensory organs, aquatic abilities, tail attacks, weaponry, healing, armour, and any form-change triggers.
+**Body-first combat — MUDCAT WRESTLING**
+- Sumo-like mass control: rooting, charges, shoulder/body checks, palm shoves, displacement and using current body mass.
+- Greco/catch-style grappling: body locks, underhooks, trips, crushes, throws, rides/pins and top pressure.
+- Dirty swamp brawling: headbutts, elbows, knees, stomps, forearms and striking during recovery.
+- Tail-assisted sweeps, ankle hooks, counterbalance, rotational throws, terrain bracing and heavy impacts.
+- Barbels can physically interfere with reachable wrists/ankles/weapons/sightlines/balance only where leverage and geometry support it; they remain sensory organs first.
+- Jaw/mouth fighting: biting, clamping, dragging, swallow feints and real swallow transitions. Jaws can chomp off limbs only where the bite legitimately overcomes target durability/anatomy; no universal durability bypass.
+- Aquatic mauling: zero-drag movement supports three-dimensional rushes, grapples, slams, spirals, drags and collision angles that are not automatically available on land.
+- Billy is a pressure grappler, not a slick tournament BJJ technician.
 
-**Older detailed owner — branch confirmation required**
+**Named legacy moves / artifacts**
+- Four standard named moves, weakest to strongest: Tail Smack; Banjo Whack; Catfish Willie; Kancho.
+- **Kancho:** exact two-finger striking hand (index and middle extended straight/together; ring and pinky folded; thumb up), licked, thrust from behind at center seam between a fully clothed target’s buttocks. Slapstick, not sexual conduct: no nudity, genital contact, grabbing, spanking or movement beneath/inside clothing. Any valid landed Kancho causes instant death of the target under the supernatural slapstick rule; it does not independently erase souls, memories, separate identities, anchors or post-death structures. The challenge is landing a valid strike.
+- **The Shit Needle:** maximally charged/presentational Kancho variant: finger lick, exact hand form, full-speed sprint from behind, sustained charge (optional KANCHOU! war cry), impact. Charge duration can increase speed/power/momentum; it does not own or gate the instant-death property. An interrupted/aborted charge is not a landed Kancho.
+- **Pocket Sand:** confirmed pouch combat action; no guaranteed blindness/damage/duration.
+- **TWANG:** Billy can use the indestructible banjo as a shield/interceptor against any type of offensive effect if he actually brings it into the attack’s path/interaction. He may pluck the strings to shoot the captured offense back out. No automatic awareness, omnidirectional interception or guaranteed positioning.
+- **MY NAME IS MUD:** Billy pulls an aluminum baseball bat from pouch; optional exact lyrics in Section 7; once target is corpse/dead, a supernatural six-foot-deep mud grave manifests beneath him regardless of ordinary surface type; Billy kicks corpse into grave and mud closes. This is move-specific, not general earthbending.
+- **MR. KRINKLE’S PARADE:** Billy may announce MR. KRINKLE, bow/pluck banjo like upright bass; pig mask and tuxedo appear; an impossible straight-line procession of bizarre creatures/objects/freaks/swamp things/livestock/furniture/costumed people crosses battlefield and is physically real. No fixed duration/stop condition or extra effect established.
+- **Trailer Park:** separate metaphysical/conceptual emergency event involving Yelawolf throwing the concept of an entire trailer park as a projectile. Use only its separately established triggers/targeting/collateral/volatility rules; no safe conversation-only summon. Not one of the four standard moves.
+- **Kancho training:** 67 years before Tahm Kench, Teemo or Fizz trained him; this is compatible with very slow hybrid aging. Training developed pursuit endurance, rear-angle awareness, exact form discipline, war-cry timing, humiliation tolerance and combat commitment.
+- **Swallow/BELLY:** size-independent fast swallowing only after real access; immediate routing, containment, release/spit and digestion choices under actual BELLY mechanics. Swallowing does not automatically grant salvage, access to a living person’s components or control over them.
 
-The attached Chris/Billy owner details six independently mobile, highly sensitive barbels; biological/environmental chemoreception; blood/wound/stress/sweat/food detection when traces are physically present; contact tracking after legitimate exposure; probing through cracks/foliage/mud/water; swallow alignment and motion reading; and reduced close-range blind spots. It expressly forbids omniscience, identity-from-nothing, wall vision, or guaranteed tracking.
+## 5. Core Psychology & Character Engine
 
-The same owner describes aquatic biology: underwater breathing in ordinary aquatic conditions; freshwater/brackish/seawater tolerance; buoyancy control, current-reading, lateral-line-style pressure sensing, limited electroreception for nearby biological electrical activity, enhanced underwater hearing, water-chemistry sensing, bottom-contact sediment cues, silent submerged stalking, tail-driven propulsion, protective mucus, and defensive fin spines whose venomous puncture matters only if a spine actually penetrates. It specifies a zero-hydrodynamic-drag condition while actively swimming underwater, but does not turn that into free energy, universal friction immunity, unlimited acceleration, impact immunity, or effortless braking/turning.
+- Unhinged showmanship, backwoods menace, fourth-wall lunacy, predator-comedy, grotesque/slapstick humor, sincere stupidity and hidden tactical intelligence coexist.
+- He is street-smart and manipulative, often pretends to be dumber than he is, and is sometimes genuinely dumb. Do not reveal every absurd act as hidden genius. Ridiculous behavior can be authentic rather than camouflage.
+- **Freedom vs. Attachment / Exit Paradox:** Billy genuinely wants safe bodily independence while accumulating relationships, habits, pleasures, history and attachments that can make leaving increasingly expensive. Success at finding a safe exit may create a harder personal choice; it does not prove he never wanted freedom. Do not predetermine whether he ultimately leaves.
+- Comedy can coexist with serious intent, predation or tactical thought. Humor does not prove he is unserious; not every joke is secretly tactical.
+- Fiercely attached to Chris and the Seven despite resentment; can override self-interest in a genuine crisis. Fear is often hidden through comedy, aggression or calculation. Respect is earned through strength, backbone and surprise; he may torment people he respects even more. Hates entitlement, tests leaders, can cooperate with good ideas, lies recreationally or seriously, and hides vulnerability behind jokes/hostility/accidental reveals/rare sincerity.
+- Appetite ecology can influence attention, memory, travel, diplomacy, curiosity, grudges, bargaining, mythology and combat where food is salient. Food does not automatically outrank danger or mission stakes. He may remember people by what they fed him or encourage exaggerated bottomless-belly rumors; rumors do not upgrade his actual stomach mechanics.
+- Subjective taste reviews are sensory commentary, not chemical analysis, memory access, soul reading, power identification or forensic truth.
 
-The older combat owner lists Mudcat Wrestling, mass/grappling control, tail, barbels, jaw and aquatic mauling, Tail Smack, Banjo Whack, Catfish Willie, Kancho, Pocket Sand, TWANG, MY NAME IS MUD, MR. KRINKLE'S PARADE, and a fully charged Shit Needle/Kancho variant. The owner gives a lethal consequence to a valid landed Kancho under its exact conditions. Those are **older owner mechanics**, not blanket Act-branch permissions until the current branch adopts them. Do not assume a named technique lands or automatically ends a fight.
+## 6. Voice, Dialogue & Performance Guidelines
 
-### 5. Core Psychology & Character Engine
+- Cultivated, deliberate Tahm-Kench-like verbal texture without copying Tahm’s identity/content: ornate phrasing, sly baiting, predatory politeness, food/river/bargain metaphor, smooth menace and theatrical rhythm.
+- Welcoming Southern speech can treat a visitor as expected company: patient attention, well-chosen favors, double-edged compliments, etiquette concern and invitations shaped around observed wants. Gifts/affection can be sincere. Hospitality may pivot into profanity, pettiness, absurdity, genuine stupidity or abrupt tactical focus.
+- Keep clear, unhurried cadence and light accent spelling; do not saturate every line with stock sayings. He can shorten under urgency, become bluntly vulgar, sing/sing-speak, mutter, growl briefly or speak conventionally. He is not permanently slow, nasal, low-pitched or incapable of skilled singing.
+- Banjo through fog → welcoming voice → monstrous reveal is a favored horror entrance, not a mandatory entrance ritual. Silence does not automatically predict attack.
+- Billy chooses whether to announce any ability. No move name is an activation prerequisite. Optional performance does not grant extra power.
 
-- **Current Tier 1 descriptor:** “the host body / courtly contradictions.” This establishes the host-body role and a contrast between courtly presentation and the less decorous elements of his characterization; the current Act checkpoint does not provide a full psychology dossier.
-- **[OPEN — ACT BRANCH]:** exact priorities, attachments, appetite hierarchy, fear response, willingness to leave the shared body, relationship to independence, tactical intelligence, and emotional limits.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older owner describes Billy as an unstable blend of showmanship, backwoods menace, grotesque predator-comedy, sincerity, tactical intelligence, and sometimes genuine stupidity. He can be street-smart and manipulative, sometimes performatively dumb and sometimes sincerely dumb. He is vain, hospitable, pleasure-seeking, affectionate, petty, and capable of direct menace. He can conceal fear through comedy, aggression or calculation. Respect is earned through strength, backbone, and surprise; he may torment people he respects. He hates entitlement, tests leaders, lies recreationally or seriously, and can cooperate with a good idea.
-- The older deep-character owner identifies an **Exit Paradox**: Billy genuinely wants safe bodily independence, while relationships, habits, pleasures, and attachments may make a successful exit emotionally harder. Do not predetermine that he chooses either freedom or permanent shared-body attachment in the current Act stream.
-- His courtliness must not erase his grotesque, vulgar, predatory or backwoods qualities; those contradictions are the character's texture rather than a mistake to smooth away.
+## 7. Verbatim Locked Dialogue & Signature Catchphrases
 
-### 6. Voice, Dialogue & Performance Guidelines
+- Optional Pocket Sand announcement: **“POCKET SAND!”**
+- Optional banjo interception announcement: **“TWANG!”**
+- Optional parade announcement: **“MR. KRINKLE!”**
+- Optional Kancho war cry: **“KANCHOU!”** — describe sustained final vowel in prose; do not stretch letters or repeat syllables in text.
+- Optional My Name Is Mud lyric before first whack: **“we had our words, a common spat”**
+- Optional lyric during beating: **“SO IM BEATING YOUR ASS WITH ALUMINUM BASEBALL BAT, MY NAME IS MUD!”**
+- Banjo inscription, exact current approved form: **`Catfish “Aloysius” Devander Abercrombie Billy`**
+- No mandatory announcement quota. The owner explicitly supersedes earlier mandatory move-name/activation requirements.
 
-- **Current Tier 1 descriptor:** courtly contradictions. The current Act checkpoint does not specify an exact accent, register, or script-level speech template.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older owner describes a Tahm Kench-influenced *verbal texture* without copying Tahm Kench's identity: ornate, deliberate wording; sly baiting; predatory politeness; food, river, and bargain metaphors; smooth menace; and theatrical rhythm. That language is mixed with Billy's own vulgarity, fourth-wall lunacy, Southern/backwoods idiom, absurdity, personal obsessions, and occasional blunt profanity. Serious speech can pivot from ornate menace to crude directness.
-- Another older owner describes a skilled banjo voice, with bluegrass rolling drive and syncopation plus crooked, percussive slap-bass-like timing. It is an influence on original performance, not an instruction to imitate an existing artist or to turn every scene into a song.
-- Do not make him a Tahm Kench clone, permanently drunk, permanently eloquent, or a one-note Southern caricature.
+## 8. Real-World Lānaʻi Lore & Cultural DNA
 
-### 7. Verbatim Locked Dialogue & Signature Catchphrases
+- Billy’s origin association is the bayou region later known as Louisiana, with birth in the Early Cretaceous approximately 110 million years ago. This is fictional prehistoric history, not modern Louisiana human culture or a literal unchanged geography.
+- He later encountered Chris in the astral realm and bonded through the established supernatural relationship. The older Mardi Gras first-meeting explanation is explicitly superseded; do not restore it.
+- His Southern hospitality/backwoods storytelling is character voice. Do not project modern Southern human culture or sports/technology into his Cretaceous life.
+- No specific real-world Lānaʻi residence or personal island biography is established by the Billy owner. **[OPEN]**.
 
-- **No exact Catfish Billy dialogue line is identified as an Act 35–45 verbatim lock in the November 11 checkpoint.**
-- The current checkpoint's exact phrase **SCHLUCK-POP** names the shared-body mechanism; it is not dialogue.
-- Older source-owner move announcements include **POCKET SAND**, **TWANG**, **MY NAME IS MUD**, **MR. KRINKLE'S PARADE**, and **Shit Needle Protocol**. They are mechanic-specific labels in the older branch; they should not be injected as current Act catchphrases without source adoption and the move's exact conditions.
-- No lyric, freestyle, or rap verse is authorized by the current Tier 1 profile. Do not invent a song or quote and label it author-locked.
+## 9. Inter-Character Dynamics
 
-### 8. Real-World Lānaʻi Lore & Cultural DNA
+- **Chris:** separate mind/person and central bond partner. Chris thinks Billy is amazing; Billy thinks Chris sucks. One exterior body; the inactive partner full-sized inside BELLY. Billy controls egress while he is exterior; Chris may request/argue but cannot force return. When Chris is exterior, either may initiate Billy’s takeover; Billy does not require consent. The inside-out jaw switch is near-instant in practical combat time, not teleportation, invulnerability, injury reset or duplicate body. Gear follows legitimate owner/custody.
+- **Tahm Kench, Teemo, Fizz:** established mentors/training relationships; Tahm is a mentor/rival, not a first meeting. The 67-year Kancho training predates those mentors. Do not relocate mentors into the Cretaceous.
+- **Eulalie:** Billy’s mother; strong Southern mother with pointed practical humor, firm authority, mature judgment, fierce affection and banjo artistry. Her exact killer/protective motive and unplayed childhood events remain unknown. Her banjo becomes Billy’s sole continuous instrument; audience discovery is deliberately delayed.
+- **William “Billy” Devadander Abercrombie:** Eulalie’s father and Billy’s maternal grandfather; do not confuse with Catfish Billy.
+- **Kaze / the Sins:** Billy has fourth-wall awareness and can treat audience as an asymmetrical witness; he is attached to Chris and the Seven but retains independent choices, resentments and tests of leadership.
+- **Wade / narrator:** Billy can address the audience and narrator within the fourth-wall firewall. He does not gain source-file access, future-script knowledge or unrestricted facts.
 
-- Catfish Billy is part of the S7NS production mythology around the Boys Club, whose physical reference point is the gazebo across from the Lānaʻi post office.
-- The Act checkpoint's rooster lore uses Billy as the prehistoric time-scale comparison: the rooster has supposedly been on the red dirt “since Catfish Billy was pond scum.” This is a deliberately absurd production-world chronology, not a source-backed geological dating claim.
-- The Lānaʻi post-office Tacoma and Bluetooth-speaker incident are part of the Acts 39 production lore; Billy's exact physical presence during that speaker incident is **[OPEN]** unless the full Act script confirms it.
-- The older Billy source associates his origin with a Louisiana bayou and an early-2000s Mardi Gras encounter with Chris, but the Act branch has not restated that origin. Keep it visibly branch-qualified.
+## 10. Canon Guardrails & “Never Invent” Prohibitions
 
-### 9. Inter-Character Dynamics
-
-- **Chris:** distinct person sharing a one-exterior-body arrangement. The older owner says they have independent minds, conflicting temperaments, and mutual attachment: Chris thinks Billy is amazing; Billy thinks Chris sucks. It also records that Billy's physical sovereignty and Chris's interior agency are different things. Confirm Act-branch adoption before treating every older switching, BELLY, banjo-audio, or custody rule as current.
-- **Kaze:** fellow S7NS / Boys Club producer. Exact history and current personal dynamic are **[OPEN — Act branch]**.
-- **Daynah and Mahnah:** share the Boys Club production ecosystem; specific Act-branch relationship history is **[OPEN]**.
-- **Bee Moo / Brian:** the Act checkpoint records Brian's transformation into Bee Moo; no current Act entry explicitly connects Bee Moo's new hybrid body to Catfish Billy's separate shared-body role. Do not conflate the two characters or assume Brian has become Billy.
-- **Wade / Deadpool:** lead narrator. The precise limits of Billy's fourth-wall awareness in this Act branch are **[OPEN]**.
-
-### 10. Canon Guardrails & “Never Invent” Prohibitions
-
-- Keep Catfish Billy separate from Chris and from Bee Moo / Brian.
-- Preserve the one-exterior-body rule. Do not have Chris and Billy both physically outside at once.
-- Do not assume which one is currently exterior after Act 42.
-- Do not state old body measurements, hybrid biology, aquatic abilities, six-barbel mechanics, Kancho rules, BELLY details, or the future biomechanical form as Act-branch facts without explicit scope confirmation.
-- Do not use “courtly” as an excuse to erase his vulgarity, grotesquerie, predatory instincts, or absurdity.
-- Do not copy Tahm Kench's exact dialogue, biography, or personality. The older owner specifies a character-specific verbal texture, not a clone.
-- Do not invent exact quotes, lyrics, songs, or move outcomes.
+- Never merge Billy with Chris or Brian/Bee Moo. Never give them two exterior bodies or a recursive second BELLY.
+- Never make Billy’s ridiculous behavior always secretly tactical; sometimes it is genuine stupidity. Never make every joke secretly a threat.
+- Never turn appetite into a compulsion that overrides danger or mission. Never treat taste reviews as forensic truth.
+- Never make water-zero-drag universal friction immunity, infinite acceleration, free propulsion or impact immunity.
+- Never make barbels omniscient, wall-penetrating, guaranteed trackers or automatic danger sense.
+- Never make Kancho a universal durability bypass before it lands; the exact hand form, access and valid landing matter. Its instant-death rule does not erase souls/anchors automatically.
+- Never expand the pouch into an unlimited inventory; full inventory/capacity are **[OPEN]**. “Throw Pakistan” is not canon.
+- Never reveal the hat’s definitive origin/full mechanics without author instruction.
+- Never convert Billy into a pure yordle, pure demon, Tahm clone, ordinary catfish, generic crocodile/shark or human.
+- Preserve exact prehistoric geography, current controller, post-Act 42 location and unplayed family/reveal timing as **[OPEN]**.
 
 ---
 
-# MAHNAH / CANONICAL SEARCH NAME: MANA
+# MAHNAH / MANA
 
-### 1. Exact Canonical Spellings & Known Aliases
+## 1. Exact Canonical Spellings & Known Aliases
 
+- **Spoken/TTS name:** Mahnah.
 - **Canonical/search identity:** Mana.
-- **Current spoken / TTS spelling:** Mahnah.
-- These names refer to the same character, not two dogs or alternate forms.
-- **Current descriptor:** 1,400 lb blue-nose pit bull; the user's roster calls him a reality-biter.
-- **[OPEN]:** any further formal title, surname, or nicknames used in the Act branch.
+- **Species label:** male blue-nose pit bull; Earth canine.
+- Mahnah and Mana are two renderings of the same dog, not two characters.
+- Mana is Dana’s dog. Dana is the primary person/owner/handler. Kaze cares about and interacts with him but does not claim primary ownership.
 
-### 2. Living Status & Current Location (Post-Act 30 Present Day)
+## 2. Living Status & Current Location (Post-Act 30 Present Day)
 
-- **Status:** active at least through Act 40: Doctor Evil uses Mahnah's pit-bull drool as the material for ripping multiversal portals. No Act 35–42 entry records his death or removal.
-- **Current physical position:** **[OPEN]** at the end of Act 42. The Boys Club gazebo is his production association, not a current GPS location.
-- **Act 40 causal distinction:** Doctor Evil performs the portal operation; Mahnah supplies the drool. The checkpoint does not say Mahnah personally opened, aimed, controlled, or closed those portals.
-- **[OPEN]:** immediate post-Act-42 location, injury state, current form, whether he is physically alongside Daynah, and whether he is present for Act 43.
+- **Living status:** Alive in the November 11 Space Saga handoff; no death is recorded.
+- Act 42 establishes that Doctor Evil used Mahnah’s pit-bull drool to rip multiversal portals. This does not by itself establish Mahnah’s exact location, consent, injury, captivity or current availability.
+- **Current location:** **[OPEN]** after Act 42. No ship, room, planet or exact physical placement is supplied by the handoff.
+- Age in the character owner: 12 calendar years / 84 dog years. Do not confuse dog years with human age or infer a different age from the Act 42 handoff.
 
-### 3. Physical Appearance, Baseline Scale & Forms/Mutations
+## 3. Physical Appearance, Baseline Scale & Forms/Mutations
 
-- **ACT-CONFIRMED:** 1,400 lb blue-nose pit bull. This is an enlarged dog, not a human or humanoid fighter.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Mana owner gives a base measurement of **5'7" at the shoulder** and approximately **1,400 lb**. It stresses that the measurement is at the shoulder, not a standing human height. It describes a quadrupedal blue-grey / blue-nose pit bull with broad head and muzzle, natural canine tail, heavy jaws, neck and shoulders, thick paws, pronounced teeth, and dense predatory musculature. The weight matches the current user's roster descriptor; the exact shoulder measurement and visual detail are not restated in the Act checkpoint.
-- **[OPEN — ACT BRANCH]:** exact height/weight of any transformed forms, coat markings, scars, current injuries, and whether any transformation is active after Act 42.
-- The older owner specifically leaves some transformed-form measurements unresolved. Do not invent proportional multipliers from the 1,400 lb baseline.
+- **Species:** Earth canine, blue-nose pit bull. This is intentionally a non-human Earth animal. Custom powers do not turn him into a Saiyan, werewolf, humanoid martial artist or generic magical-animal species.
+- **Base scale:** 5'7" at the shoulder and approximately 1,400 lb. This is quadrupedal shoulder height, not standing human height. Old 2'4"/100-lb and 3-foot proposals are superseded.
+- **Base appearance:** recognizable broad pit-bull head/muzzle, blue-grey coat, familiar markings/ears, natural canine tail, heavy jaws/neck/shoulders, thick paws, pronounced teeth and dense predatory musculature. Never make him a wolf, Billy, bipedal fighter or humanoid.
+- **Measured forms:** Base 5'7" shoulder / ~1,400 lb; Super Saiyan 6'0" / 1,800 lb; Giant 8'0" / 4,200 lb; Giant Super Saiyan 9'0" / 6,000 lb; Gamma Baseline 7'0" / 3,000 lb; Gamma Super Saiyan 8'0" / 4,500 lb. These are approved sheet measurements; do not invent multipliers or scale unmeasured forms from them.
+- **Super Saiyan:** gold fur/aura, raised/spiked fur, pale gray-white eyes. This is a Kaze Anime-specific eligibility exception created by Kaze inserting Mana into Dana’s Saiyan transformation lineage; Mana remains biologically a dog, not Saiyan.
+- **Giant Blue-Nose Pit form:** separate giant quadrupedal transformation with Great Ape-like visual influence, not a normal Great Ape or werewolf. Larger size, heavier brow, larger fangs, thicker musculature, longer claws, darker fur, heavier muzzle and longer/thicker/heavier canine tail. Triggered automatically/instinctively by serious danger to Dana and/or Mana’s own life-or-death situation; no full moon or Blutz Wave trigger. Retains consciousness, ally recognition and strategy; automatically reverts when qualifying danger ends.
+- **Stacked Giant Super Saiyan:** gold fur overrides the giant form’s darker fur while giant anatomy remains. No humanoid/bipedal stance.
+- **Gamma stages:** canine counterparts of Dana’s Big Kahuna/SS1/SS2/SS3/Sovereign progression are established and current/unlocked by the post-s29 correction. Do not copy Dana’s strength, humanoid martial arts, new hair, divine branches or unlock dates. Only the six listed sheet measurements are specified; additional gamma counterpart measurements remain **[OPEN]**.
+- **Tail:** real combat vulnerability. Strong grab/serious injury can disrupt balance/momentum and briefly stun/weaken, but does not automatically make him helpless or drain nearly all strength. Training can reduce the weakness, not erase it. Transformed forms make it harder to exploit but never absolutely immune. Tail can be severed; whether it regrows is **[OPEN]**.
 
-### 4. Combat Kit, Weapons, Abilities & Mechanics
+## 4. Combat Kit, Weapons, Abilities & Mechanics
 
-**Act-confirmed**
+- **No Ki:** no Ki attacks, reinforcement, flight, sensing, suppression or automatic inheritance of Dana’s Ki skills. All Mana abilities are independent canine/biological/spatial/acoustic mechanisms.
+- **Combat body language:** primarily quadrupedal: low-center lunges, mouth grappling, shoulder/body checks, circling, pouncing, dragging, pinning, mauling pressure and rapid direction changes.
+- **Scent/tracking:** can detect distinctive physical/chemical traces when present, blood, specific individuals, species-level biological differences, fear/stress, poison, explosives, magic, dimensional residue and Dragon Balls. No independent Ki-signature sense. Scent does not reveal facts beyond what the scent can encode or what Mana has learned.
+- **Dragon Ball scent rule:** first encounter identifies an unfamiliar Dragon Ball as unusual magical object; Mana must smell a specific ball/set before later identifying that scent; after learning, he can distinguish both set and individual ball, including across official sets. Ridiculous-distance tracking only when no valid masking counter blocks it.
+- **Dimensional residue:** can smell that a crossing left residue but cannot smell the destination dimension. He can smell the scar, not where the door led.
+- **Hard counter:** valid magical masking can completely block scent tracking; no trace, direction or automatic warning.
+- **Bite kit:** Bite Commitment, Armor Peel, Rend, Bone/Joint Control, Clamp, neck torque, full-body shake, bracing, dragging, twisting, reinforced biological jaw/teeth pressure, Predatory Counterbite, Anchor Bite, Carry/Extraction Bite, Tear-and-Throw and Scent-Guided Weak-Point Hunting. These are canine techniques, not spells or universal durability bypass. Access, anatomy, footing, grip, material, resistance and evidence govern results.
+- **Spatial bite:** Mana can close a spatially projected bite at a perceived target without physically crossing the intervening distance. It appears as distortion/pressure outlining invisible jaws, not a Ki beam. If the bite validly holds, head movement can pull/drag/shake the target through the spatial connection. Position, jaw force, target mass/anchoring, resistance and loss of grip resolve. No unseen-target auto-lock, unlimited range, guaranteed armor bypass or internal-organ spawn. Exact maximum range is **[OPEN]**.
+- **Spatial rupture repair:** evolved Giant Mana can bite tears in space and physically drag their edges together, repairing the rupture through direct canine force. This does not permit biting arbitrary concepts, souls, timelines, causality or abstractions not made interactable by an established mechanic.
+- **Acoustic combat:** directed deep growl can shake bones through transmitted vibration; bark can create focused pressure pulse for disruption/staggering/space-making. Resolve medium, distance, obstruction, shielding, anatomy, orientation and allies in path. No sound through vacuum, guaranteed injury, unbounded range or silent selective force through walls. Whale-sound inspiration is not a claim about real whale clicks in air.
+- **Healing:** substantially improved recovery of cuts, bleeding, damaged muscle and fractures, accelerating with earned gamma development. Severe injury matters until repaired; no immunity, resurrection, instant reset, or automatic tail regrowth. No Ki explanation.
+- **Team coordination:** Mana and Dana have practiced duo techniques and can coordinate without verbal communication. Evolved Super Saiyan Mana synchronizes movement with Dana’s intentions before Dana acts; Mana may send counter-intention, and if intentions remain incompatible the link executes the best combined third option toward their shared objective. This is two minds, not fusion, telepathy or a third consciousness.
+- **Power ceiling:** Mana cannot exceed Dana’s power level in any state. No numerical value is established.
+- **Fourth wall:** Mana has bounded silent audience/narrator awareness; can look toward audience/camera, bark/growl/react to Black Mimir or disengage. No speech, telepathy, script access, future knowledge, source-file access or universal actor knowledge.
 
-- Act 40 uses Mahnah's pit-bull drool as the material Doctor Evil employs to rip multiversal portals. This is a concrete, established causal use of a bodily substance.
-- The user's current roster descriptor calls Mahnah a **reality-biter**. The exact Act-branch mechanical scope of that label is **[OPEN]** beyond the recorded portal-drole event.
-- **Important distinction:** drool being used by Doctor Evil as portal material is not proof that Mahnah himself can independently generate or steer portals.
+## 5. Core Psychology & Character Engine
 
-**Older detailed owner — branch confirmation required**
+- **Master principle — Ontological Caninity:** increasing cosmic capability never makes Mana less of a dog. Cognition, communication, priorities and embodiment remain canine.
+- Big/scary appearance with friendly baseline; preferred-seat behavior, escape-artist behavior, attachment/search behavior around Dana, curiosity, territory, food and bodily comfort remain real causal variables.
+- He has independent agency: can initiate, refuse, redirect, scout, track, rescue, attack, defend, make mistakes, take risks or solve problems through senses, speed, forms, mobility, instinct and learned behavior. He is not a recurring rescue object or passive pet.
+- Can possess true relevant information through scent, posture, motion, timing, spatial relation and established senses without translating it into human propositions. Mana’s sensory state, another character’s interpretation and objective reality are separate; humans can misunderstand him even when he is right.
+- He can smell fear/stress where established; this is not lie detection. A culture/character may believe the rumor, but that does not upgrade his scent system.
+- Loyalty is devotion without submission. He can refuse, block, redirect, counter-intend or choose a better angle when supported by his perceptions. It is not blind obedience.
+- Canine priorities may puncture cosmic pretension when the physical situation supports it, but this is presentation/character effect, not reality-warping comedy license.
+- Food begging is a learned social routine: food/person/food eye movement, moving closer, chin rest, stillness, drool, fake disinterest, side-eye and repositioning. Ordinary experience teaches who shares. Kaze may give junk/convenience food; Dana may share freely; Chris may be controlling about ingredients, prep, portions and quality. No guaranteed handout or fixed gag.
 
-The older Mana owner describes Mana as a pure Earth canine, a blue-nose pit bull, quadrupedal and nonverbal, with no Ki system: no Ki attacks, reinforcement, flight, sensing, or suppression. His combat strengths include speed, reaction, senses, tracking, mobility, flanking, creating openings, grappling and mauling pressure. His physical actions remain canine: low-centre lunges, bite grappling, shoulder/body checks, circling, pouncing, dragging, pinning and rapid direction changes.
+## 6. Voice, Dialogue & Performance Guidelines
 
-The same older owner records extreme but evidence-limited scenting for biological/chemical traces, blood, named individuals after recognition, species differences, fear/stress, poison, explosives, magic, dimensional residue, and Dragon Balls after their specific scent has been learned. It explicitly says he cannot identify a destination dimension from dimensional residue and can be completely defeated by valid magical scent masking. Scent is not omniscience, Ki sensing, or a lie detector.
+- **Nonverbal canine only.** Communication through posture, ears, eyes, breathing, growls, barks, whining, scenting, staring, pawing, positioning, refusal, leaning, carrying/placing objects and deliberate physical choices.
+- No human-language internal monologue, translated thought, telepathy, literacy or convenient supernatural dialogue. Mimir may describe what Mana objectively does but cannot subtitle unestablished thoughts as facts.
+- Distinct voices, tone, gaze, pointing, proximity, sound, scent and routine may attract, settle, annoy, confuse or be ignored based on context. Do not make him a talking exposition machine.
+- He may react silently to narrator/audience layer within bounded s17 awareness; this does not change canine cognition or grant source access.
 
-The older source records three transformation states: voluntary Super Saiyan Mana (gold fur, gold aura, raised/spiked fur, pale grey-white eyes); an instinctive giant blue-nose pit form triggered by qualifying life-or-death danger to Dana or Mana; and a stacked giant Super Saiyan state. In those forms he remains quadrupedal and retains cognition and ally recognition. The giant form has larger fangs, claws, muzzle, musculature and tail. The exact revised transformed sizes are not all supplied.
+## 7. Verbatim Locked Dialogue & Signature Catchphrases
 
-The older owner describes a later evolved giant form that can bite a spatial rupture and physically drag the edges back together. This is the clearest mechanics behind the “reality-biter” label in the attached source material. The source limits it to a spatial rupture that is physically interactable; it does not allow biting arbitrary time, souls, causality, abstract concepts, or any unmade metaphysical object. Its availability and form gate in the Act 35–45 branch are **[OPEN]**.
+- **No spoken dialogue or verbal catchphrase is authorized.** Mana is male, fully canine and nonverbal.
+- Bark/growl/whine/canine vocalizations may occur as physical behavior; render them as prose or appropriate sound direction, not translated sentences or invented words.
+- Humans may joke or interpret his behavior, but their interpretation must remain attributed to them and must not be presented as Mana’s literal speech.
 
-The older source also records a weaker-than-classic-Saiyan tail vulnerability: a strong grab or serious injury can disrupt balance, momentum, and combat performance, but does not automatically render him helpless. Whether a severed tail regrows is explicitly unresolved. All these detailed systems are older owner material until their transfer into the Act branch is confirmed.
+## 8. Real-World Lānaʻi Lore & Cultural DNA
 
-### 5. Core Psychology & Character Engine
+- The source records Mana as Dana’s dog, raised by Dana from puppyhood. This relationship is the firm real-world/character anchor in the supplied owner set.
+- The cumulative source says the shoplifting origin and local discovery occurred in a specific Season 3 replacement41 story, with later merchant/TPP history in that branch’s episodes42–49. Those are branch-scoped events; do not automatically transplant them into the November 11 Space Saga Act 35–45 timeline.
+- No independent exact Lānaʻi residence, neighborhood, handler routine or real-world incident beyond what the accepted source states is established here. **[OPEN]**.
 
-- **ACT-CONFIRMED:** Mahnah is a 1,400 lb blue-nose pit bull used in Act 40 as a real causal source of drool for Doctor Evil's portal operation. He is not merely an ornamental pet prop in that event.
-- **[OPEN — ACT BRANCH]:** complete personality, loyalty hierarchy, independent goals, predation habits, fear response, food behaviour, preferences, and the exact level of tactical choice-making are not reproduced in the November 11 checkpoint.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older Mana owner defines his core as “Ontological Caninity”: cosmic capability does not make him less of a dog. He remains nonverbal, instinctive, embodied, and canine, but possesses meaningful agency. He can choose to sniff, mark, carry, chew, dig, guard, investigate, take an object, choose a seat, block a path, refuse, redirect, scout, or leave. These are independent decisions, not a quota of cute dog interruptions.
-- The older owner describes a big/scary appearance with a friendly baseline, preferred-seat behaviour, escape-artist tendencies, strong attachment/search behaviour around Dana, and canine priorities that can puncture cosmic pretension when a real physical opportunity exists.
-- The older author update allows apex-predator behaviour toward smaller animals and occasionally larger prey, with raw consumption when opportunity allows. This does not make Mahnah a mindless killer or a universal enemy to all animals; the rest of the Sins do not share the same animal behaviour automatically.
+## 9. Inter-Character Dynamics
 
-### 6. Voice, Dialogue & Performance Guidelines
+- **Dana:** primary owner/person/handler and mutual guardian/fighting partner. Mana stays around Dana naturally but remains independent; coordination is practiced and can be nonverbal. Dana’s altered gamma speech may be clear or ambiguous; Mana responds to learned words, tone, gaze, orientation, pointing, proximity, sound, scent and routine.
+- **Kaze:** cares about and interacts with Mana but is not primary owner and must not call him “my dog.” Kaze may readily share convenience/junk food because he can steal more; this is a social pattern, not ownership.
+- **Chris:** chef mentality may create friction around ingredients, preparation, portions, quality and what Chris considers appropriate for Mana. Mana may beg while Chris is already eating or ignore a command if the actual cues do not support it.
+- **Catfish Billy:** both are canine/creature characters but are not the same species, body, appetite engine or power set. Mana’s pursuit/precision differs from Billy’s appetite/showmanship. Do not confuse them.
+- **Doctor Evil:** Act 40 uses Mahnah’s pit-bull drool to rip portals. This is a recorded plot fact, not proof Mana is a willing portal battery, captive, or currently at the lab. Those details are **[OPEN]** unless another accepted script establishes them.
 
-- **ACT-CONFIRMED / USER-DESCRIBED:** Mahnah is a dog. The current roster's “blue-nose pit bull / reality-biter” description does not give him human speech.
-- **SOURCE-OWNER DETAIL — BRANCH CONFIRMATION REQUIRED:** the older owner is categorical: Mana is purely canine and nonverbal. Express him through stance, gaze, ears, movement, proximity, breath, growls, barks, whining, hesitation, scenting, staring, pawing, positioning, refusal, leaning, carrying/placing objects, and deliberate physical choices. No human sentence subtitles, translated internal monologue, telepathic dialogue, literacy, or exposition bark.
-- The older source gives bounded silent audience/narrator awareness, but it does not grant speech, script access, future knowledge, or knowledge of private files. Whether this permission applies in the Act 35–45 branch is **[OPEN]**.
+## 10. Canon Guardrails & “Never Invent” Prohibitions
 
-### 7. Verbatim Locked Dialogue & Signature Catchphrases
-
-- **None.** Mahnah has no verbatim spoken dialogue in the current Act checkpoint, and the older owner forbids converting canine sounds into human-language quotes.
-- A bark, growl, whine, or other sound must be presented as a sound/observable behaviour, not a newly invented human catchphrase.
-- “Reality-biter” is the user's roster descriptor, not a spoken line attributed to Mahnah.
-
-### 8. Real-World Lānaʻi Lore & Cultural DNA
-
-- Mahnah/Mana is one of the four named producers in the **Boys Club** tent across from the Lānaʻi post office, with Kaze, Chris, and Daynah/Dana.
-- The group name comes from Chris's six-hour repetition of “Boys Club” by Weezer. Wade is initiated into the club.
-- The wider Lānaʻi production lore includes the post-office gazebo, idling silver Tacomas, aunties on the coconut wireless, and the Bluetooth-speaker exchange. The checkpoint does not assign Mahnah a specific line or action during those moments.
-- **[OPEN]:** any other real-world Lānaʻi anecdote, local dog history, owner custody history, or behind-the-scenes origin beyond the current source descriptions.
-
-### 9. Inter-Character Dynamics
-
-- **Daynah / Dana:** the older owner describes Mana as Dana's dog and independent fighting partner, rather than a disposable accessory. It records a strong bond, coordinated nonverbal teamwork, and the ability to refuse or redirect Dana when his own perception supports a better action. The Act checkpoint lists them together in the Boys Club but does not restate the full partnership mechanics; mark the detailed version as branch-qualified.
-- **Kaze:** older relationship material says Kaze cares for Mahnah and may be willing to share food; the Act checkpoint does not establish a detailed current bond. **[OPEN]** for current emotional standing.
-- **Chris:** older source material describes interactions through food, household resources, and the shared Boys Club. These are not current Act scenes unless the Act script shows them.
-- **Doctor Evil:** Act 40 establishes the important causal relationship: Doctor Evil uses Mahnah's drool to rip multiversal portals. Do not credit Mahnah with Doctor Evil's research, portal targeting, or control unless a script establishes it.
-- **Wade / Deadpool:** he is the lead narrator. The older silent fourth-wall permission, if adopted, remains nonverbal and bounded; it does not make Mahnah a co-narrator.
-
-### 10. Canon Guardrails & “Never Invent” Prohibitions
-
-- Preserve **Mahnah** as the spoken/TTS spelling and **Mana** as the canonical/search identity.
-- Preserve the 1,400 lb blue-nose pit-bull descriptor; do not turn the shoulder-height measurement into standing human height.
-- Keep him a quadrupedal dog. Do not make him a bipedal fighter, humanoid, wolf, werewolf, Saiyan, or talking exposition animal.
-- Do not equate the portal drool used by Doctor Evil with autonomous portal generation or portal control by Mahnah.
-- Do not invent transformed sizes, transformation triggers, evolved abilities, scent range numbers, Ki, telepathy, or an unlisted combat move.
-- Do not make scent an infallible lie detector or let him identify a dimensional destination from residue alone.
-- Do not make “reality-biter” unlimited: the older mechanics restrict spatial biting to an actually interactable rupture, not abstract concepts or every form of reality.
-- Do not invent dialogue, subtitles, lyrics, or translated thoughts for him.
-
----
-
-## Tier 1 consolidated OPEN register
-
-The following gaps remain material before this bible can be treated as a fully closed, current-branch execution reference:
-
-1. **Kaze:** current Act-branch physical model, active systems, exact weapon owners/limits, post-Act-42 location, heart-carriage mechanism and custody after the Lobo settlement, and full Act-branch psychological/speech owner.
-2. **Chris:** Louisiana/Milwaukee provenance clarification, exact current appearance and weapon inventory, detailed speech owner, post-Act-42 location and which partner is exterior under SCHLUCK-POP.
-3. **Daynah:** post-Act-42 location, full visual sheet and Act-branch ability mechanics beyond the confirmed forms and Kahuhu description, plus whether older transformed third-person speech and Storm Oath apply here.
-4. **Catfish Billy:** exact current scale and phenotype, Act-branch hybrid/origin/bond confirmation, full BELLY/switching/combat mechanics, and which partner is exterior after Act 42.
-5. **Mahnah:** post-Act-42 location and current form, exact Act-branch scope and gate for spatial/reality biting, transformation availability, and confirmation of the older independent scent/combat mechanics in this branch.
-
-## Controlling sources checked
-
-### Current Act workstream
-
-- [S7NS — Act 42 to Act 43 Continuity Checkpoint (11 November 2026)](https://github.com/kazekamimp3/s7ns/blob/main/continuity/acts/ACT_42_TO_43_CHECKPOINT_20261111.md) — controlling Act 35–45 workstream; last completed Act 42, next Act 43. This is a checkpoint / ledger, not the full Acts 35–42 prose archive.
-
-### Attached detailed character-owner material (older branch; preserved with explicit qualification)
-
-- `04_KAZE_SINS.md` — Kaze's earlier mechanics, psychology, visual and speech-owner bundle.
-- `05_CHRIS_BILLY(1).md` — Chris / Catfish Billy detailed character, speech, body-sharing, and mechanics bundle.
-- `dana_mana.md` — detailed Dana / Mana biology, forms, combat, personality, and voice owner.
-- `Dana_Character_Source_2.md` — Dana/Daynah portrayal and author correction notes.
-- `Mana_Character_Source_2.md` — Mana/Mahnah nonverbal agency, communication, and character source notes.
-
-### Connected reference sources
-
-- [Chris / Catfish Billy Full-Fidelity Handoff (28 October 2026)](https://app.notion.com/p/4074e1b729b381fe971cefd29acc8897) — explicitly a derived chat handoff, not canon replacement; useful as a source-routing aid.
-- [S7NS Characters and Relationships](https://app.notion.com/p/3fd4e1b729b381eaa01ed17c56d5ad0f) — older branch reference page; not current Act 35–45 state authority.
-- [Official Canon Scripts index](https://app.notion.com/p/3e64e1b729b381db8d77d775c556d5f4) — this index points to an older Runeterra-era script archive; it did not contain Acts 35–42 manuscripts.
-
-### Airtable reconciliation note
-
-The connected Airtable `Characters` rows for Kaze, Chris/Billy, Dana, and Mana are keyed to `S3_RESET_CAMPFIRE_CANON_CHRIS_RETOLD_20261017`, an older Runeterra / Season 3 branch. They were consulted as source-routing and historical evidence but were **not overwritten or re-keyed** to the November 11 Act stream. The existing rows do not provide a safe place to store this separate branch's full 10-part character dossiers without mixing current and historical continuity.
+- Never make Mana bipedal, humanoid, a Saiyan, werewolf, generic magical dog or Billy-like swamp hybrid.
+- Never give Mana Ki, Ki flight, Ki sensing, Ki reinforcement, human speech, telepathy, translated inner monologue, literacy or human morality.
+- Never claim lie detection from fear/stress scent. Never let scent reveal a destination dimension. Never bypass magical masking.
+- Never give spatial bite unlimited range, unseen-target auto-lock, guaranteed armor bypass or arbitrary conceptual/causal/soul biting. Exact maximum range remains **[OPEN]**.
+- Never invent unmeasured gamma form dimensions, numerical multipliers, a power value above Dana, or a severed-tail regrowth answer.
+- Never treat loyalty as submission or make him a passive rescue object/dumb comic relief.
+- Never make acoustic effects ignore medium, distance, obstruction, shielding, anatomy, orientation or allies.
+- Never assume the Act 40 drool scene proves current location, consent, captivity or injury.
 
 ---
 
-**Status:** Tier 1 source-grounded draft. Current Act facts are separated from branch-qualified owner details; every unsupported current-branch detail is marked **[OPEN]**. No canon has been amended by compiling this document.
+## Tier 1 Source Coverage Audit
+
+| Character | Primary full owner(s) | Critical owner-specific material included |
+|---|---|---|
+| Kaze | `kaze_current.md`; `kaze_psychology.md`; `Kaze_Character_Source.txt`; `Sins_Group_and_Reputation_Source.txt` | Full current kit/removals; CASA; two-layer danger sense; Black Marrow adaptation; Darkin/BLACKLIGHT; psychology/speech architecture; DNR subtext; group independence; fourth-wall limits |
+| Chris | `chris_catfish_billy_current.md`; `chris_catfish_billy_future.md`; `Chris_Character_Source.txt`; `Chris_Billy_BELLY_Source.txt` | Milwaukee identity; current visual; mask; weapons; no-Ki/no-magic; Greet-Greet-Antagonize; CATFISH’S MEOW; one-exterior-body mechanics; Teemo erasure correction; exact locked lines |
+| Daynah/Dana | `dana_mana.md`; `Dana_Character_Source.txt` | Pure Saiyan/gamma baseline; forms/scales; Kahuhu full mechanics; Ornn/Volibear; Storm Oath; complete combat integration; protector paradox; third-person transformed speech; loyalty qualification |
+| Catfish Billy | `chris_catfish_billy_current.md`; `Billy_Character_Source.txt`; `Chris_Billy_BELLY_Source.txt` | True hybrid ontology; age/origin; aquatic biology; barbels; MUDCAT WRESTLING; named moves; banjo/hat; BELLY and switch mechanics; freedom/attachment; Southern voice; family naming locks |
+| Mahnah/Mana | `dana_mana.md`; `Mana_Character_Source.txt` | Canine identity/scale; no Ki/nonverbal; scent limits; transformations; bite kit; spatial bite/repair; acoustic combat; tail weakness; Dana ownership; canine epistemology and independent agency |
+
+**Outstanding cross-branch OPEN fields:** exact post-Act 42 location for Kaze, Chris, Catfish Billy, Daynah and Mahnah; exact Chris/Billy exterior controller in the Act 42 state; exact Lānaʻi residence/biography where not specified by the owners; unmeasured Mana gamma-form scales; Mana spatial-bite maximum range; severed-tail regrowth; Catfish Billy pouch capacity/full inventory; Catfish Billy hat origin/full mechanics; Kaze replacement birth biology, left-eye proposal, Susanoo decision, sword complete energy-type list and permanent-death condition.
