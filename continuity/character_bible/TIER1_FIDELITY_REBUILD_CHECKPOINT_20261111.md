@@ -1,18 +1,18 @@
 # S7NS CHARACTER BIBLE — FINAL PRODUCTION CHECKPOINT
 
-**Checkpoint timestamp:** 2026-11-11, approximately 7:45 PM HST  
+**Checkpoint timestamp:** 2026-11-11, after completion of the cross-tier audit (HST)  
 **Project:** S7NS  
 **Branch:** `S7NS_SPACE_SAGA_ACTS_20261111`  
 **Author authority:** Kaze / Tristan  
-**Task state:** ALL FIVE REQUESTED TIERS COMPILED AS SOURCE-GROUNDED DRAFTS; cross-tier author review remains available.
+**Task state:** ALL FIVE REQUESTED TIERS COMPILED; CROSS-TIER AUDIT COMPLETE; author review remains. Tier 1 is corrected to edition 2.2.
 
 ## 1. Exact current state
 
-The complete requested roster has been compiled into **27 individual character dossiers, 270 numbered schema sections, and approximately 51,571 words**. The final bullet in Tier 5 contains two independent people sharing one conjoined body; they were given separate dossiers.
+The complete requested roster has been compiled into **27 individual character dossiers, 270 numbered schema sections, and approximately 51,896 words**. The final bullet in Tier 5 contains two independent people sharing one conjoined body; they were given separate dossiers.
 
 ### Tier completion
 
-- **Tier 1 — The Core Sins & Ship Crew:** corrected edition **2.1**, five dossiers, 50 sections, approximately 17,987 words. Rebuilt from the actual character-fidelity owners, not the Act 42 handoff. Duplicate short-form Daynah/Billy/Mahnah entries were removed; the expanded fidelity-owner dossiers were retained. GitHub and Notion readback verified. Five branch-specific Airtable records verified. Author acceptance: NOT_ASSERTED.
+- **Tier 1 — The Core Sins & Ship Crew:** corrected edition **2.2**, five dossiers, 50 sections, approximately 18,306 words. Rebuilt from the actual character-fidelity owners, not the Act 42 handoff. Duplicate short-form Daynah/Billy/Mahnah entries were removed; the expanded fidelity-owner dossiers were retained. Cross-tier audit corrections add Kaze’s cannot-drive lock, Chris’s zero-remorse note re Clifford/Jack Marston, and explicit branch-adoption status for Daynah/Mahnah forms. GitHub and Notion readback verified. Five branch-specific Airtable records verified. Author acceptance: NOT_ASSERTED.
 - **Tier 2 — The Antagonists, Rivals & Mercenaries:** six dossiers, 60 sections, approximately 9,260 words. GitHub and Notion readback verified; six branch-specific Airtable records verified. Do not redo Tier 2.
 - **Tier 3 — The Lānaʻi & Outer Rim Lore Anchors:** four dossiers, 40 sections, approximately 5,109 words. GitHub and Notion readback verified; four branch-specific Airtable records verified. No dedicated full fidelity owners for Denise, Batuna/Marcelina, Venlee or the Prehistoric Pimp Rooster were found in the attached manifest-mapped owner set. Sparse-source limitations and OPEN fields are explicit. Author acceptance: NOT_ASSERTED.
 - **Tier 4 — Red Dead & Historical Ledger Characters:** four dossiers, 40 sections, approximately 8,313 words. Dutch, Arthur, Bob Ross and Micah full owners were extracted and SHA-256 verified. GitHub and Notion readback verified; four branch-specific Airtable records verified. Author acceptance: NOT_ASSERTED.
@@ -20,13 +20,13 @@ The complete requested roster has been compiled into **27 individual character d
 
 ### Exact next step
 
-There is **no remaining roster tier**. The next unfinished production step is **cross-tier audit and author review**: reconcile any corrections Kaze supplies, check the exact Act 35–45 present-state overlay against delivered scripts, and update only the affected dossier/record. Do not restart any completed tier or infer author acceptance.
+There is **no remaining roster tier and no remaining cross-tier audit step**. The cross-tier audit is saved. The next unfinished step is **Kaze’s author review** of the audit report and OPEN fields. Apply only explicit author-directed corrections; do not restart any tier, invent missing details, or infer author acceptance.
 
-## 2. Tier 1 artifact — corrected fidelity edition 2.1
+## 2. Tier 1 artifact — corrected fidelity edition 2.2
 
 - GitHub: https://github.com/kazekamimp3/s7ns/blob/main/continuity/character_bible/TIER_1_CORE_SINS_20261111.md
-- GitHub blob SHA: `b351ef61d3d34b89f10892669ca79ff0ed72b547`
-- Update commit: `a99463a3e11ab442ff803ac686a35d1e06e8cf05`
+- GitHub blob SHA: `a80c1111b1e1324befb44332094761034a59bcdb`
+- Latest correction commit: `fc450c9bd0e61836d44f9e36edaf99e36ccb6cbc`
 - Notion page: `4164e1b729b38193aa09f37ce39f18e0`
   - https://app.notion.com/p/4164e1b729b38193aa09f37ce39f18e0
 - Airtable Characters table `tblsOUdXP1ddAXlcd`, branch `S7NS_SPACE_SAGA_ACTS_20261111`:
@@ -83,6 +83,23 @@ There is **no remaining roster tier**. The next unfinished production step is **
   - Brusta Thymes / Tracy Morgan: `recJ9kZD4uz4YQ92d`
   - Conjoined Mini-Adult Brian: `recd7Z4fntK61dkD0`
 
+## 7. Cross-tier audit artifact
+
+- **Audit report:** `continuity/character_bible/CROSS_TIER_AUDIT_20261111.md`
+- GitHub: https://github.com/kazekamimp3/s7ns/blob/main/continuity/character_bible/CROSS_TIER_AUDIT_20261111.md
+- GitHub blob SHA: `576f4d8b09941c627380bcf55536ed0c9243c24c`
+- Notion: https://app.notion.com/p/4164e1b729b381d5aa68c290733a5199
+- Airtable Research Evidence record: `rec9xAspx36QqnNWM`
+- Result: 27 character dossiers / 270 numbered sections checked against the November 11 Act 42 checkpoint and available full owners. No further direct cross-tier identity or event contradiction was established after the Tier 1 edition 2.2 corrections. Branch-adoption questions and all unsupported fields remain OPEN.
+
+### Corrections applied in Tier 1 edition 2.2
+
+- Kaze cannot drive; this now appears beside the no-alcohol lock.
+- Chris’s zero-remorse characterization regarding Clifford / Jack Marston is recorded without inventing the underlying act or scene.
+- Chris’s “Louisiana marksman” roster descriptor is preserved alongside the owner’s Milwaukee birthplace; the exact Louisiana connection remains OPEN.
+- Daynah’s additional SSJ Big Kahuna variants and Mahnah’s expanded six-form menu are labelled as owner-sourced progression whose Act 35–45 availability is not restated in the Act 42 handoff.
+- Catfish Billy’s 10'6" / 1,700-lb figure is distinguished as a full-owner baseline, not a measurement repeated in the Act 42 handoff.
+
 ## 7. Critical branch and evidence rules
 
 - The November 11 Act 35–45 handoff is the current Space Saga present-state overlay; it is not a replacement for character-fidelity owners.
@@ -94,4 +111,4 @@ There is **no remaining roster tier**. The next unfinished production step is **
 - Tier 3 lacks dedicated full fidelity owners for all four characters. Tier 5 lacks dedicated full S7NS owners for Master Shake and Frylock. These are source limitations, not invitations to fill with franchise assumptions.
 - Tier 5’s Brusta Thymes and Mini-Adult Brian are two autonomous people in one conjoined body and therefore have separate dossiers.
 
-**Resume instruction:** All requested roster tiers have been drafted and saved. Continue with cross-tier audit and author-directed corrections only. Do not redo completed tiers.
+**Resume instruction:** All five tiers are saved; Tier 1 edition 2.2 is current; the cross-tier audit is complete and saved. Continue with Kaze’s author review and only those corrections he explicitly directs. Do not redo completed tiers or treat this checkpoint as author acceptance.
