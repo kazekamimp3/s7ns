@@ -1,6 +1,6 @@
 # S7NS CHARACTER BIBLE — TIER 1: THE CORE SINS & SHIP CREW
 
-**Corrected edition:** 2.1 — 11 November 2026  
+**Corrected edition:** 2.2 — 11 November 2026  
 **Authority:** Kaze / Tristan  
 **Scope:** Kaze, Chris, Daynah/Dana, Catfish Billy, Mahnah/Mana  
 **Status:** Rebuilt from the actual character-fidelity owners extracted from the attached cumulative package and verified against `MANIFEST.yaml`. The Act 42 handoff is used only as a separate present-state overlay.  
@@ -38,7 +38,7 @@ The following full owners were extracted from the attached physical bundles by t
 - **Heart placement:** the handoff states Kaze’s physical heart is carried in Lobo’s saddlebag. The precise physiology, distance/connection rules and exact consequences of that placement are not expanded by the handoff; do not invent them.
 - **Current location:** **[OPEN]** after the Act 42 settlement. The handoff does not specify a ship, room, planet, or exact body placement after the encounter.
 - **Separate owner branch:** the attached Kaze fidelity owners include a cumulative Season 3 package whose own stated endpoint is Episode 50. That is not the current Act 42 cursor. Do not move Kaze to that branch’s Episode 50 location or use its old episode cursor as the Space Saga present.
-- Kaze’s no-alcohol rule is explicit in the current owner and repeated in the Act 42 handoff. Romance is OFF in the October 2026 current owner scope; historical adult relationship events remain historical and do not reactivate current romance.
+- Kaze’s no-alcohol rule is explicit in the current owner and repeated in the Act 42 handoff: **he never drinks**. The November 11 handoff also locks that **Kaze cannot drive**. Do not infer that he can drive because he can ride in or be transported by a vehicle. Romance is OFF in the October 2026 current owner scope; historical adult relationship events remain historical and do not reactivate current romance.
 
 ## 3. Physical Appearance, Baseline Scale & Forms/Mutations
 
@@ -153,12 +153,13 @@ The following full owners were extracted from the attached physical bundles by t
 - **Primary canonical name:** Chris.
 - Chris and **Catfish Billy** are two separate people/consciousnesses. Catfish Billy is not Chris’s true name, secret identity or single merged personality.
 - No full legal surname is established in the controlling character owners. **[OPEN]**.
-- The supplied roster description “Louisiana marksman” is not supported as Chris’s birthplace by the controlling owner: Chris is recorded as a human/Earthling born in **Milwaukee, Wisconsin**. Louisiana is Catfish Billy’s bayou-origin association. Do not transfer Billy’s birthplace to Chris.
-- The November 11 handoff’s “anti-sci-fi purist” shorthand may describe the current Space Saga presentation, but it is not a complete substitute for Chris’s character-owner psychology or a universal identity rule.
+- The current author roster labels Chris **“Louisiana marksman.”** The full Chris owner records his birthplace as a human/Earthling born in **Milwaukee, Wisconsin**. These statements are not inherently contradictory: the roster label does not specify birthplace. The exact Louisiana connection — residence, training, assignment, accent or other history — remains **[OPEN]** unless the full owner or a matching script resolves it. Catfish Billy separately has a bayou-region Louisiana origin; do not use that fact to overwrite either Chris’s roster label or his documented Milwaukee birth.
+- The November 11 handoff’s **“anti-sci-fi purist”** description is a current Space Saga characterization lock. Preserve it in this branch without reducing Chris to that one trait or using it to replace his complete character-owner psychology.
 
 ## 2. Living Status & Current Location (Post-Act 30 Present Day)
 
 - **Living status:** Alive in the November 11 Act 42 present-day branch; no death is recorded in the supplied checkpoint.
+- **Act 42 behavioral lock:** The checkpoint describes Chris as having **zero remorse about Clifford / Jack Marston**. Preserve that author-supplied characterization without inventing the precise underlying action, motive or scene from this summary alone. Do not soften it into regret or retroactively assign a different emotional response.
 - **Shared-body status:** Chris and Catfish Billy retain one exterior body with two independent minds. The exact current exterior controller in the post-Act 42 Space Saga state is **[OPEN]**; do not assume Chris is outside or inside solely because the roster calls Billy “the host body.”
 - When Chris is the exterior actor, Billy is the full-sized interior occupant in BELLY OF THE BILLY; when Billy is exterior, Chris is full-sized inside. There is never a second exterior body.
 - Exact post-Act 42 ship, room, planet and location: **[OPEN]**.
@@ -275,7 +276,7 @@ He is a **pure Saiyan** with no second lineage or hybrid ancestry. His gamma mut
 
 **Living status:** alive in the current Act 42 roster. The November 11 checkpoint treats Daynah as an active core Sin and records no death, incapacitation or removal.
 
-**Body and current state:** after having earned Kahuna Sovereign, Daynah returned to his permanent gamma-mutated baseline after Sovereign receded. His baseline is 8'10" / approximately 840 lb. The completed forms remain earned and available under their mechanics; the fact he is currently described at baseline does not erase them. The Act checkpoint does not state which form he has activated at the precise Act 42 ending.
+**Body and current state:** after having earned Kahuna Sovereign, Daynah returned to his permanent gamma-mutated baseline after Sovereign receded. His baseline is 8'10" / approximately 840 lb. The full Season 3 / Runeterra owner records a broader earned sequence, but the Act 42 handoff explicitly re-lists **Big Kahuna** and **Kahuna Sovereign** as the established forms in the Space Saga ledger. Whether the additional Super Saiyan Big Kahuna, SSJ2 Big Kahuna and SSJ3 Big Kahuna states are available in the separate Acts 35–45 branch is **[OPEN — branch adoption not restated]**. Do not treat their older-owner status as independent proof of their use in this Space Saga branch. The Act checkpoint does not state which form he has activated at the precise Act 42 ending.
 
 **Current location:** **[OPEN]** in the Act 35–45 stream. Do not copy an older Season 3 episode location, camp, harbor or BELLY interior position into the November 11 Act chronology. Daynah’s work in the Boys Club tent and Lānaʻi production lore is stable background, not proof of current on-screen geography.
 
@@ -295,7 +296,7 @@ He is a **pure Saiyan** with no second lineage or hybrid ancestry. His gamma mut
 4. **Super Saiyan 3 Big Kahuna** — separately earned SSJ3/gamma stack. Retains dark natural coils, with a dramatically longer cascading black coiled mane, greater energy leakage and greater biological strain than SSJ2; never blonde, white, platinum or silver.
 5. **Kahuna Sovereign** — first true fused phenotype on Daynah’s own path after SSJ3, not a copy of Blue, God, Ultra Instinct or GT SSJ4. Approx. 14'4" / 4,500 lb. Deep dark-jade/forest-green skin; black/deep-charcoal natural coils, calmer and more controlled than SSJ3 mane; pale integrated aura with gold and gamma-green refraction. Larger/heavier than Big Kahuna but more stable, upright, efficient and biomechanically organized. Protector-Precision is stabilized without requiring rage; stamina, control, efficiency and sustainable output improve. Kahuhu synchronizes with the phenotype rather than merely resizing.
 
-All five states are earned. Kahuna Sovereign later receded and Daynah returned to the 8'10" / 840 lb gamma-mutated baseline; do not treat this reversion as erasure of access or as a forced transformation on every insult. Post-Sovereign branches and later tree stages remain gated until separately earned. No number of forms may be added merely because the tree contains future designs.
+The full owner’s five-state progression is earned in its own Season 3 / Runeterra scope. For the current Space Saga branch, the November 11 handoff independently confirms Big Kahuna and Kahuna Sovereign; access to the three additional Super Saiyan Big Kahuna variants remains **[OPEN — branch adoption not restated]**. Kahuna Sovereign later receded and Daynah returned to the 8'10" / 840 lb gamma-mutated baseline; do not treat this reversion as erasure of source-owner access or as a forced transformation on every insult. Post-Sovereign branches and later tree stages remain gated until separately earned. No number of forms may be added merely because the tree contains future designs.
 
 **Tail history:** Kaze told Daynah the meta secret that Saiyans are stronger without their tails. Kaze removed his tail; it regrew once. Kaze cut it off a second time, after which it stopped regrowing. The dedicated owner explicitly says there is no further technical explanation: Kaze can make the second removal final. Do not invent a biological, energy, medical or curse reason for the loss of regrowth.
 
@@ -444,7 +445,7 @@ The prehistoric pimp-rooster lore belongs to the wider group’s Lānaʻi absurd
 
 ## 3. Physical Appearance, Baseline Scale & Forms/Mutations
 
-**Current evolved baseline:** 10 feet 6 inches tall and approximately **1,700 lb**. The sole current physical visual authority is the user-approved **`08_CATFISH_BILLY_OFFICIAL_REFERENCE.png`**, titled **CATFISH BILLY — EVOLVED**. All older pre-evolved sheets and rejected evolved drafts are historical/rejected, not supporting current references.
+**Full-owner evolved baseline:** 10 feet 6 inches tall and approximately **1,700 lb**. The sole physical visual authority in that owner is the user-approved **`08_CATFISH_BILLY_OFFICIAL_REFERENCE.png`**, titled **CATFISH BILLY — EVOLVED**. The November 11 Act 42 handoff independently reconfirms the one-exterior-body rule but does not repeat Billy’s scale; treat 10'6" / 1,700 lb as the character-owner baseline, not as a newly measured Act 42 scene fact. All older pre-evolved sheets and rejected evolved drafts are historical/rejected, not supporting current references.
 
 **Silhouette and anatomy:** broad belly-centered mass with substantial shoulder/neck/upper torso, heavy forearms and gripping hands, dense haunches, thick-rooted laterally flattened propulsion tail, irregular mature biological scutes and flexible wet folds. Dark swamp olive, mud-brown/gray-green, dirty tan belly and muted rusty fins. The closed-mouth face is ancient, focused, heavy-browed and watchful—not vacant, frail-elder, generic crocodile, shark or harmlessly derpy. The latest sheet controls face, body, tail, hide, equipment and expression language.
 
@@ -634,7 +635,7 @@ The Boys Club tent is the production gazebo across from the Lānaʻi post office
 
 **Owner/handler:** Daynah remains Mana’s primary person/owner/handler. This is a direct author correction. Kaze is not to call Mana “my dog” or claim primary ownership.
 
-**Body/form status:** the six explicitly measured forms are established in the source owner. Base is 5'7" at the shoulder / approximately 1,400 lb. Super Saiyan, Giant, Giant Super Saiyan, Gamma Baseline and Gamma Super Saiyan are also current earned options. Current form at the Act 42 endpoint is **[OPEN]**. The active story state, not an old form illustration caption, controls which body is in use at a given moment.
+**Body/form status:** the full Mana owner measures six forms: Base, Super Saiyan, Giant, Giant Super Saiyan, Gamma Baseline and Gamma Super Saiyan. Base is 5'7" at the shoulder / approximately 1,400 lb, matching the current Act roster’s dog scale. The Act 42 handoff confirms the 1,400-lb pit bull and the use of his drool in Doctor Evil’s portal experiment, but does **not** restate the full six-form menu or identify an active transformed state. Availability of the additional owner-defined forms in Acts 35–45 is **[OPEN — branch adoption not restated]**. Current form at the Act 42 endpoint is **[OPEN]**. The active story state, not an old form illustration caption, controls which body is in use at a given moment.
 
 **Act 40 portal experiment:** Doctor Evil used Mahnah’s pit-bull drool to rip multiversal portals. This establishes use of the bodily material as part of Doctor Evil’s experiment; it does not establish Mana as a portal user, willing operator, magical researcher, sapient portal technician or owner of any portal result. What Mana understood or felt about the event is **[OPEN]** unless the actual Act 40 script supplies observable evidence.
 
